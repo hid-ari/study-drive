@@ -9,9 +9,7 @@ Escribir entradas en tu blog.
 > "Hacer demasiado al mismo tiempo es simplemente la oportunidad de estropear
 más de una cosa al mismo tiempo". *Steve Uzzell*
 
-Distracciones y disturbios, evitan enfocarse en una tarea. Se pierde el 28% de
-nuestro tiempo en un día normal de trabajo debido a la ineficiencia de ser
-multitarea.
+Distracciones y disturbios, evitan enfocarse en una tarea. Se pierde el 28% de nuestro tiempo en un día normal de trabajo debido a la ineficiencia de ser multitarea.
 
 La distraccion es natural, la distarcción perjudica tus ingresos.
 
@@ -30,12 +28,9 @@ relación compleja de mente y cuerpo que puede verse comprometida por:
 
 **La practica hace al maestro!**
 
-La fuerza de voluntad es como un músculo, se entrena. Comienza gradualmente y
-aumenta el desafío.
+La fuerza de voluntad es como un músculo, se entrena. Comienza gradualmente y aumenta el desafío.
 
-La fuerza de voluntad es menor cuando nos cansamos. Concéntrate en los objetivos
-cuando estés más dispuesto; No retome malos habicos como fumar, la comida rápida,
-o comida congelada.
+La fuerza de voluntad es menor cuando nos cansamos. Concéntrate en los objetivos cuando estés más dispuesto; No retome malos habicos como fumar, la comida rápida, o comida congelada.
 
 Luchar contra el estrés. Todos los trabajos producen estrés. Estrés y Fuerza de
 voluntad no van juntos.

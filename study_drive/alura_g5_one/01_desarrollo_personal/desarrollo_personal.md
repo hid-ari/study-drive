@@ -1,16 +1,10 @@
 ## Habilidades Blandas
 
-Durante los cursos vas a conocer herramientas para promover tu foco, aprender
-conceptos como el loop del hábito, el método S.M.A.R.T, GTD (Getting Things Done)
-y aplicarlos para mejorar tu organización y desarrollar nuevos hábitos y mejorar
-tu desarrollo personal.
+Durante los cursos vas a conocer herramientas para promover tu foco, aprender conceptos como el loop del hábito, el método S.M.A.R.T, GTD (Getting Things Done) y aplicarlos para mejorar tu organización y desarrollar nuevos hábitos y mejorar tu desarrollo personal.
 
-El desarrollo personal ayuda a establecer un mindset de alta performance, desarrollar
-la oratoria, mejorar las relaciones interpersonales y a entender como ofrecer y
-recibir feedbacks de la mejor forma.
+El desarrollo personal ayuda a establecer un mindset de alta performance, desarrollar la oratoria, mejorar las relaciones interpersonales y a entender como ofrecer y recibir feedbacks de la mejor forma.
 
-Al concluir estar Formación habrás desarrollado habilidades que son claves para
-los nuevos desafíos del mercado de trabajo.
+Al concluir estar Formación habrás desarrollado habilidades que son claves para los nuevos desafíos del mercado de trabajo.
 
 Esta formación forma parte del Programa ONE, una alianza entre Alura Latam y Oracle.
 

@@ -9,6 +9,6 @@ Discover the skills needed for a career in software development. Learn the core 
 **Learn** foundational programming concepts, practices, and terminology
 
 ### 3 ITEMS
-1. [[study_drive/study_drive/programming_courses/software_development_microsoft/001_career_skills_in_software_development/README.md]]
+1. [[study_drive/study_drive/software_development_microsoft/001_career_skills_in_software_development/README.md]]
 2. [[Programming Foundations Fundamentals]]
 3. [[Programming Foundations Beyond the Fundamentals]]

@@ -74,15 +74,17 @@ Bienestar y equilibrio
 - Vida personal: ¿cuál es la acción principal que puedo tomar para mejorar mi capacidad de comunicarme con las personas?, o ¿qué es lo que puedo hacer para tener más tiempo para mí misma?
 
 - Relaciones principales: ¿cuál es la acción principal que puedo tomar para mejorar mi relación con mi esposo(a), novio(a)? ¿Qué es lo principal que puedo hacer para demostrar que valoro a mis padres?
+
 - Trabajo: ¿cuál es la acción principal que puedo hacer para ser reconocida?
+
 - Negocios: ¿cuál es la acción principal que puedo tomar para mejorar mis cursos, mi proyecto de negocio, mi trabajo, mi emprendimiento?
+
 - Vida financiera: ¿cuál es la acción principal que puedo tomar para aumentar mi patrimonio neto?
 
-- No queremos pasar por la vida como simples espectadores, queremos ser los
-protagonistas.
-- El secreto es hacer la pregunta más importante de nuestras vidas: vida
-espiritual, salud física, vida personal, relaciones principales, trabajo,
-negocios y vida financiera.
+- No queremos pasar por la vida como simples espectadores, queremos ser los protagonistas.
+
+- El secreto es hacer la pregunta más importante de nuestras vidas: vida espiritual, salud física, vida personal, relaciones principales, trabajo, negocios y vida financiera.
+
 - ¿Cuál es la acción principal que puedes tomar para cumplir con tu rutina
 de ejercicios?
 - ¿Cuál es la acción principal que puedes realizar para fortalecer a tu familia?

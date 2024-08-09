@@ -5,12 +5,7 @@ Crear Nuevos hábitos
 
 ## Reconociendo tus hábitos
 
-Ahora es tu turno de usar la Meta SMART. Después de establecer una meta,
-piensa en los 5 elementos que hacen una meta SMART y cómo puedes ajustarlos
-para que se cumpla.
-
-Solo para recordar, una meta SMART debe ser: específica, medible, alcanzable,
-relevante y tener una fecha límite.
+Ahora es tu turno de usar la Meta SMART. Después de establecer una meta, piensa en los 5 elementos que hacen una meta SMART y cómo puedes ajustarlos para que se cumpla. Solo para recordar, una meta SMART debe ser: específica, medible, alcanzable, relevante y tener una fecha límite.
 
 ej.
 
@@ -35,8 +30,7 @@ La meta es la definición en términos cuantitativos y con un término fijo.
 El ciclo del hábito siempre comienza con una señal, un disparador que
 transfiere tu cerebro a un modo que determina automáticamente qué hábito usar.
 
-Cuando te pones objetivos, es esencial que te motiven: significa asegurarte de
-que son importantes para ti y de que hay valor en alcanzarlos.
+Cuando te pones objetivos, es esencial que te motiven: significa asegurarte de mque son importantes para ti y de que hay valor en alcanzarlos.
 
 #### Sumario 02
 

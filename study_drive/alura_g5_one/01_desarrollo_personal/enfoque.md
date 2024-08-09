@@ -19,8 +19,7 @@ La distraccion es natural, la distarcción perjudica tus ingresos.
 
 Quiero mucho! Pero no puedo. ¿Realmente quiero hacerlo? ¿Es este el camino correcto?
 
-La fuerza de voluntad no es un aspecto inalterado del ser humano, sino una
-relación compleja de mente y cuerpo que puede verse comprometida por:
+La fuerza de voluntad no es un aspecto inalterado del ser humano, sino una relación compleja de mente y cuerpo que puede verse comprometida por:
 
 - Noches de insomnio.
 - Estrés
@@ -35,28 +34,45 @@ La fuerza de voluntad es menor cuando nos cansamos. Concéntrate en los objetivo
 Luchar contra el estrés. Todos los trabajos producen estrés. Estrés y Fuerza de voluntad no van juntos.
 
 - La falta de fe en uno mismo es un paso hacia el fracaso, ya que esta falta de fe puede iniciar un proceso interno de auto-sabotaje.
+
 - El miedo al fracaso aumenta debido a la certeza de que fallaremos; la idea del fracaso se vuelve más cercana y genera ansiedad; la ansiedad perjudica el rendimiento.
+
 - Esperar demasiado una "inspiración" puede ser, en el fondo, solo una forma de postergar (es decir, posponer la acción).
+
 - La fuerza de voluntad generalmente se debilita durante el día, a medida que nos cansamos.
+
 - El estrés generalmente nos anima a prestar atención a los objetivos a corto plazo; el autocontrol, por otro lado, mantiene el enfoque más amplio.
 
 Bienestar y equilibrio
 
 - Establecer metas anuales para el desarrollo profesional y personal.
+
 - Programar tus vacaciones.
+
 - Elaborar un plan y comenzar a trabajar duro para lograrlo y hacer los ajustes necesarios.
+
 - La cuestión no es cambiar de opinión todo el tiempo, sino ser honesto contigo mismo.
+
 - Siempre que sea posible, olvídate del trabajo los fines de semana.
+
 - Llena tu tiempo libre con actos significativos.
+
 - No descuides tu salud.
+
 - Manténte alejado de personas demasiado negativas y pesimistas.
+
 - Disfruta de tu propia compañía.
+
 - Tómate un tiempo para cultivar tus relaciones.
+
 - Estimula tu capacidad de aprendizaje.
 
 - Vida espiritual: no me refiero a la religión, pero ¿qué puedo hacer para ayudar a los demás?
+
 - Salud física: ¿cuál es la acción principal que puedo tomar para cumplir con mi rutina de ejercicios?
+
 - Vida personal: ¿cuál es la acción principal que puedo tomar para mejorar mi capacidad de comunicarme con las personas?, o ¿qué es lo que puedo hacer para tener más tiempo para mí misma?
+
 - Relaciones principales: ¿cuál es la acción principal que puedo tomar para mejorar mi relación con mi esposo(a), novio(a)? ¿Qué es lo principal que puedo hacer para demostrar que valoro a mis padres?
 - Trabajo: ¿cuál es la acción principal que puedo hacer para ser reconocida?
 - Negocios: ¿cuál es la acción principal que puedo tomar para mejorar mis cursos, mi proyecto de negocio, mi trabajo, mi emprendimiento?

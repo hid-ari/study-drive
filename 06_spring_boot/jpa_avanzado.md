@@ -1,7 +1,5 @@
 # JPA Avanzado
 
-<style>div.mermaid{text-align: center;}</style>
-
 - doc
 [persitence](https://jakarta.ee/specifications/persistence/2.2/apidocs/javax/persistence/package-summary.html)
 - Hibernate

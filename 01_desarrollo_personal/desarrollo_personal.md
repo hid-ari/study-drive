@@ -57,7 +57,7 @@ Actualizarse, mantenerse al tanto de tecnologias, aprendizaje constante.
 | Convergente | Aprende resolviendo problemas |
 | Asimilador | Aprende analisando y observando |
 
-![img](01_desarrollo_personal/imgs/dimensiones_aprendizaje_Kolb.png) 
+![image](https://github.com/user-attachments/assets/ab9e9c38-c0bc-4431-9822-1c73233d1325)
 
 [Estilos de aprendizaje de Kolb](https://www.actualidadenpsicologia.com/la-teoria-de-los-estilos-de-aprendizaje-de-kolb/)
 #### Zona de confort

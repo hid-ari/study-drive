@@ -1,3 +1,4 @@
+
 ## Habilidades Blandas
 
 Durante los cursos vas a conocer herramientas para promover tu foco, aprender conceptos como el loop del hábito, el método S.M.A.R.T, GTD (Getting Things Done) y aplicarlos para mejorar tu organización y desarrollar nuevos hábitos y mejorar tu desarrollo personal.
@@ -57,7 +58,7 @@ Actualizarse, mantenerse al tanto de tecnologias, aprendizaje constante.
 | Convergente | Aprende resolviendo problemas |
 | Asimilador | Aprende analisando y observando |
 
-![image](https://github.com/user-attachments/assets/ab9e9c38-c0bc-4431-9822-1c73233d1325)
+![image](01_desarrollo_personal/imgs/dimensiones_aprendizaje_Kolb.png) 
 
 [Estilos de aprendizaje de Kolb](https://www.actualidadenpsicologia.com/la-teoria-de-los-estilos-de-aprendizaje-de-kolb/)
 #### Zona de confort

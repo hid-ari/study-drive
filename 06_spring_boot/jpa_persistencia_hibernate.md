@@ -1,7 +1,5 @@
 # JPA
 
-<style>div.mermaid{text-align: center;}</style>
-
 ## Java Persistence API
 
 [H2 Database Engine](https://mvnrepository.com/artifact/com.h2database/h2/2.2.222)

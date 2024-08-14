@@ -1,4 +1,3 @@
-
 ## Habilidades Blandas
 
 Durante los cursos vas a conocer herramientas para promover tu foco, aprender conceptos como el loop del hábito, el método S.M.A.R.T, GTD (Getting Things Done) y aplicarlos para mejorar tu organización y desarrollar nuevos hábitos y mejorar tu desarrollo personal.

@@ -1,4 +1,4 @@
-## Habilidades Blandas
+# Habilidades Blandas
 
 Durante los cursos vas a conocer herramientas para promover tu foco, aprender conceptos como el loop del hábito, el método S.M.A.R.T, GTD (Getting Things Done) y aplicarlos para mejorar tu organización y desarrollar nuevos hábitos y mejorar tu desarrollo personal.
 
@@ -27,8 +27,8 @@ Resumen: [pdf online](https://caelum-online-public.s3.amazonaws.com/ESP-1962-Apr
 2. Programar el estudio, calendarizar y organizar.
 3. Tomar cursos. Apoyarse de estos para aprender materias nuevas o dificiles.
 4. Estudiar con amigos, mediante foros, discord, github, rrss.
+5. Actualizarse, mantenerse al tanto de tecnologias, aprendizaje constante.
 
-Actualizarse, mantenerse al tanto de tecnologias, aprendizaje constante.
 #### Tu Ikigai
 
 ##### Lo que amas

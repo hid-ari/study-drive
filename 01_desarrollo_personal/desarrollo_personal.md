@@ -18,6 +18,7 @@ Esta formación forma parte del Programa ONE, una alianza entre Alura Latam y Or
    - Com. asertiva
    - Soft Skills
 3. Diagnostico
+
 ### Aprender a aprender
 
 Resumen: [pdf online](https://caelum-online-public.s3.amazonaws.com/ESP-1962-Aprender+a+aprender/Aprender+a+Aprender.pdf) 

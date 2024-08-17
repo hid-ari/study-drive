@@ -57,7 +57,7 @@ Actualizarse, mantenerse al tanto de tecnologias, aprendizaje constante.
 | Convergente | Aprende resolviendo problemas |
 | Asimilador | Aprende analisando y observando |
 
-![image](01_desarrollo_personal/imgs/dimensiones_aprendizaje_Kolb.png) 
+![image](https://github.com/hid-ari/study_drive/blob/main/01_desarrollo_personal/imgs/dimensiones_aprendizaje_Kolb.png?raw=true) 
 
 [Estilos de aprendizaje de Kolb](https://www.actualidadenpsicologia.com/la-teoria-de-los-estilos-de-aprendizaje-de-kolb/)
 #### Zona de confort
@@ -163,7 +163,7 @@ Es importante tomar pausas, caminar, descanzar. dormir.
 [Curva del olvido de Ebbinghaus](https://www.mosalingua.com/es/curva-del-olvido/).
 *Repasar para no olvidar*
 
-![img](normal-memory-retention.jpg)
+![img](https://github.com/hid-ari/study_drive/blob/main/01_desarrollo_personal/imgs/normal-memory-retention.jpg?raw=true)
 
 Cramming: Aprender un gran volumen de contenido en poco tiempo.
 Practica Distribuida: Distribuir los estudios para que la curva de aprendizaje

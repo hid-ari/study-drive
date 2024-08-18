@@ -1,11 +1,11 @@
 # Consultas SQL
 ## Cursos
-- Curso [](jdbc.md)
-- Curso [JPA Persistence Hibernate](jpa_persistence_hibernate.md)
-- Curso [JPA Avanzado](jpa_avanzado.md)
-- Curso [Spring Boot 1](spring_boot_1.md)
-- Curso [Spring Boot 2](spring_boot_2.md)
-- Curso [Spring Boot 3](spring_boot_3.md)
+- Curso [](study_drive/07_java_spring_boot/jdbc.md)
+- Curso [JPA Persistence Hibernate](study_drive/07_java_spring_boot/jpa_persistence_hibernate.md)
+- Curso [JPA Avanzado](study_drive/07_java_spring_boot/jpa_avanzado.md)
+- Curso [Spring Boot 1](study_drive/07_java_spring_boot/spring_boot_1.md)
+- Curso [Spring Boot 2](study_drive/07_java_spring_boot/spring_boot_2.md)
+- Curso [Spring Boot 3](study_drive/07_java_spring_boot/spring_boot_3.md)
 ## Lectura
 - Lectura [JDBC](https://www.aluracursos.com/blog/conociendo-el-jdbc)
 - Lectura [Maven](https://www.aluracursos.com/blog/que-es-maven)

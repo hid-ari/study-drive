@@ -1,7 +1,7 @@
 # Java 
 [Primeros Pasos](https://app.aluracursos.com/course/java-primeros-pasos)
 ## Cursos
-- Curso [Orientación a objetos](04_java_oo/orientacion_obj.md)
+- Curso [Orientación a objetos](orientacion_obj.md)
 - Curso [Herencia e Interfaces](04_java_oo/herencia_interfaces.md)
 - Curso [Enums y anotaciones](04_java_oo/enums_anotaciones_java.md)
 - Curso [Excepciones](04_java_oo/excepciones.md)

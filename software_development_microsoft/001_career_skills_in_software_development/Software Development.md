@@ -8,4 +8,5 @@ Discover the skills needed for a career in software development. Learn the core 
 **Learn** foundational programming concepts, practices, and terminology
 
 ## Index
-()
+[Life as a programmer](01_life_as_a_programmer.md)
+02_software_development[]

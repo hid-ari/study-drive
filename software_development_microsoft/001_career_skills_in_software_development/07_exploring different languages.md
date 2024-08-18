@@ -1,5 +1,7 @@
-#Different Languages
+# Different Languages
+
 ![[Pasted image 20240808115402.png]]
+
 Java, Python, and C++ all inherit ideas from C.
 
 The C programming language was developed in the 1970s. It's used for programming operating systems, games, smart devices, and compilers for other languages. 

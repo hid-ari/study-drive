@@ -31,7 +31,7 @@ Resumen: [pdf online](https://caelum-online-public.s3.amazonaws.com/ESP-1962-Apr
 
 ## Tu Ikigai
 
-## Lo que amas
+### Lo que amas
 
 1. Solucionar problematicas practicas con software, y automatización.
 2. Aprender y profundizar en lenguajes de programación y utilizarlo en soluciones/proyectos.
@@ -86,7 +86,7 @@ Constancia, dedicación, compromiso.
 - Estilo individual de aprendizaje
 - Zona de Aprendizaje y Disiplina
 
-# Eliminar barreras
+## Eliminar barreras
 
 - Distracción
 - Falta de tiempo/prorización
@@ -107,7 +107,7 @@ que más te incomodan? ¿Cómo y cuándo ocurren?
 > Ahora, para cada una, define un plan de acción para poner en práctica y evitar
 que te incomoden en tu rutina.
 
-# Develeando el cerebro
+## Develeando el cerebro
 
 Mindset Fijo
 
@@ -150,7 +150,7 @@ Es importante tomar pausas, caminar, descanzar. dormir.
 - El 80% de lo que hacen.
 - El 95% de lo que enseñan a otros.
 
-# Formatos de aprendizaje
+## Formatos de aprendizaje
 
 | Formato           | Características                                                                                       |
 | ----------------- | ----------------------------------------------------------------------------------------------------- |
@@ -177,7 +177,7 @@ Cramming: Aprender un gran volumen de contenido en poco tiempo.
 Practica Distribuida: Distribuir los estudios para que la curva de aprendizaje
 se mantenga regular.
 
-# Memoria a largo plazo
+## Memoria a largo plazo
 
 El aprendizaje es el proceso de adquirir información para la memoria de largo plazo. Juntar diferentes bloques de conocimiento y saber como aplicarlo. Divide una habilidad en subhabilidades. Pequeñas partes para aprender.
 
@@ -206,14 +206,14 @@ Párrafos -> Reflexiones
 ¿Cómo puedes, con base en los ejemplos del curso, romperlos en pequeños
 bloques y organizar tu proceso de aprendizaje?
 
-# Definiendo una meta
+## Definiendo una meta
 
 > ..."Lo que puede ser medido puede ser mejorado"... *Peter Drucker*
 
 - ¿Por qué lo quiero aprender?
 - ¿Dónde lo voy a usar?
 - ¿Cuando quiero estar listo?
-# Metodo SMART
+## Metodo SMART
 
 | -   | SMART      |
 | --- | ---------- |
@@ -225,7 +225,7 @@ bloques y organizar tu proceso de aprendizaje?
 
 [Método SMART](https://trabajarporelmundo.org/metodo-smart/)
 
-#  Niveles de medicón
+##  Niveles de medicón
 
 - ¿Satisfación con el proceso de aprendizaje?
 - ¿Recuerdas lo aprendido?
@@ -247,7 +247,7 @@ y aprendiste recientemente y haz una reflexión sobre tu aprovechamiento en cada
 
 Midiendo la evolución
 
-# Rutina de aprendizaje
+## Rutina de aprendizaje
 
 - Organiza tu agenda de la semana.
 - Define (y respeta) el tiempo por día.
@@ -278,13 +278,13 @@ próxima semana considerando:
 ¿Qué formatos y estilos, considerando tu perfil personal, vas a elegir para
 incluir en esta agenda?
 
-# Ejercita cuerpo y mente
+## Ejercita cuerpo y mente
 
 Hacer actividad física (aunque sea por poco tiempo) auxilia las conexiones entre neuronas del hipocampo, región cerebral asociada al aprendizaje y a la memoria.
 
 Dormir crea nuevos caminosy mejora el modo difuso.
 
-# Herramientas
+## Herramientas
 
 - Google Alerts
 - Linkedin:
@@ -296,7 +296,7 @@ Dormir crea nuevos caminosy mejora el modo difuso.
 - Artículos
 
 [Extra - Curso linkedin](https://app.aluracursos.com/course/linkedin-hacer-perfil-trabaje-por-ti)
-# Repaso
+## Repaso
 
 - Autoconocimiento
 - Estilos y caminos del aprendizaje
@@ -307,7 +307,7 @@ Dormir crea nuevos caminosy mejora el modo difuso.
 - Rutinas de aprendizaje productivas
 - Herramientas para aprender mejor
 
-# Cursos
+## Cursos
 
 - Curso [enfoque](enfoque.md)
 - Curso [habitos](habitos.md)

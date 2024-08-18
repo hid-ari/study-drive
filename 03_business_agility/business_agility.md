@@ -305,55 +305,42 @@ Y una de las características más interesantes para que una persona sea parte d
 
 El rol de coach es una de las tareas del Scrum Master. Hacer preguntas al equipo que genere reflexión y asegurarse de que las personas puedan dar sus propias respuestas.
 
-La persona en el rol de Scrum Master es responsable de maximizar la eficiencia
-del Scrum Team, promover y apoyar Scrum y ayudar a mejorar las interacciones existentes.
+La persona en el rol de Scrum Master es responsable de maximizar la eficiencia del Scrum Team, promover y apoyar Scrum y ayudar a mejorar las interacciones existentes.
 
 Esta persona tiene algunas características principales:
 
-- **Líder Servidor**: su principal objetivo es hacer que otras personas tengan
-éxito.
+- **Líder Servidor**: su principal objetivo es hacer que otras personas tengan éxito.
 - **Coach**: persona que puede hacer preguntas que generen reflexión.
 - **Facilitador**: puede organizar el trabajo.
 - **Maestro**: puede enseñar para el equipo.
 - **Elimina impedimentos**.
 - **Experto en Scrum**.
-- **Tiene Habilidades Sociales**: capacidad para hablar e interactuar con otras
-personas.
-- **Agente de cambio**: tiene como objetivo mejorar la organización, no solo el
-equipo scrum.
+- **Tiene Habilidades Sociales**: capacidad para hablar e interactuar con otras personas.
+- **Agente de cambio**: tiene como objetivo mejorar la organización, no solo el equipo scrum.
+- 
 #### Equipos Kanban
 
-Kanban es una evolución de cómo organizar el trabajo de un Scrum Team, sin tener
-algunos de los roles obligatorios de Scrum y con un fuerte enfoque en garantizar
-la capacidad de trabajo.
+Kanban es una evolución de cómo organizar el trabajo de un Scrum Team, sin tener algunos de los roles obligatorios de Scrum y con un fuerte enfoque en garantizar la capacidad de trabajo.
 
-El método Kanban consta de tareas y se divide en 5 etapas: documentación,
-creación de prototipos, codificación, pruebas y entrega.
+El método Kanban consta de tareas y se divide en 5 etapas: documentación, creación de prototipos, codificación, pruebas y entrega.
 
 ![img](kanban_.png)
 
-Se usan *post-its* en cada uno de los pasos, que generalmente contienen una breve
-explicación de la tarea. Un determinado grupo de personas trabaja en cada etapa,
-que puede ser una, dos o incluso más.
+Se usan *post-its* en cada uno de los pasos, que generalmente contienen una breve explicación de la tarea. Un determinado grupo de personas trabaja en cada etapa, que puede ser una, dos o incluso más.
 
 Tenemos los roles opcionales dentro de la herramienta Kanban que son:
 
-- **Service Delivery Manager**: es la persona que vela por que los artículos no se
-detengan, tiene el rol de facilitador en el flujo de cambios y mejoras.
-- **Service Request Manager**: su función principal es ordenar y colocar los artículos,
-qué artículo tendrá el mayor impacto y retorno de la inversión.
+- **Service Delivery Manager**: es la persona que vela por que los artículos no se detengan, tiene el rol de facilitador en el flujo de cambios y mejoras.
+- **Service Request Manager**: su función principal es ordenar y colocar los artículos, qué artículo tendrá el mayor impacto y retorno de la inversión.
 
-Kanban es un tema extremadamente rico dentro de agile, y una forma poderosa de
-visualizar y limitar el trabajo que está siendo hecho por un equipo.
+Kanban es un tema extremadamente rico dentro de agile, y una forma poderosa de visualizar y limitar el trabajo que está siendo hecho por un equipo.
 
 > Lectura: Para conocer y profundizar más sobre [Kanban](https://marvin-soto.medium.com/la-metodolog%C3%ADa-kanban-6ab002502831).
 
-> Scrum además de tener roles definidos y características marcadas para los equipos,
-nos define también algunos artefactos para ayudarnos en nuestro dia a dia con scrum.
-> Lectura: Profunzando en [Scrum](https://medium.com/@andrewdjandrw/qu%C3%A9-es-scrum-674c6b791af4)
+> Scrum además de tener roles definidos y características marcadas para los equipos, nos define también algunos artefactos para ayudarnos en nuestro dia a dia con scrum. 
+	 Lectura: Profunzando en [Scrum](https://medium.com/@andrewdjandrw/qu%C3%A9-es-scrum-674c6b791af4)
 
 ----
-
 ### Alura blog
 
 - Principales modelos de [metodología ágil](https://www.aluracursos.com/blog/los-principales-modelos-de-metodologia-agil)

@@ -1,4 +1,8 @@
 # Desarrollo Personal
+## Cursos
+- Curso [enfoque](enfoque.md)
+- Curso [habitos](habitos.md)
+- Curso [linkedin](linkedin.md)
 ## Habilidades Blandas
 Durante los cursos vas a conocer herramientas para promover tu foco, aprender conceptos como el loop del hábito, el método S.M.A.R.T, GTD (Getting Things Done) y aplicarlos para mejorar tu organización y desarrollar nuevos hábitos y mejorar tu desarrollo personal.
 
@@ -290,8 +294,4 @@ Dormir crea nuevos caminosy mejora el modo difuso.
 - Rutinas de aprendizaje productivas
 - Herramientas para aprender mejor
 
-## Cursos
-- Curso [enfoque](enfoque.md)
-- Curso [habitos](habitos.md)
-- Curso [linkedin](linkedin.md)
 

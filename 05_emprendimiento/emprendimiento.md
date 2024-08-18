@@ -2,8 +2,8 @@
 
 ## Cursos
 - Curso [Business Model Canvas](business_model_canvas)
-- Curso [lean_](herencia_interfaces.md)
-- Curso [Enums y anotaciones](enums_anotaciones_java.md)
+- Curso [Lean Startup](lean_startup)
+- Curso [Pitch Entrevistas](enums_anotaciones_java.md)
 - Curso [Excepciones](excepciones.md)
 - Curso [Bibliotecas Principales](bibliotecas_principales.md)
 - Curso [Java.util

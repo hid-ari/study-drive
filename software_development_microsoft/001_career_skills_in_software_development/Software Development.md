@@ -9,4 +9,7 @@ Discover the skills needed for a career in software development. Learn the core 
 
 ## Index
 [Life as a programmer](01_life_as_a_programmer.md)
-02_software_development[]
+[Software Development](02_software_development.md)
+[]()
+[]()
+[]()

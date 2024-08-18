@@ -1,4 +1,15 @@
 # Consultas SQL
+## Cursos
+- Curso [Java y JDBC](jdbc.md)
+- Curso [JPA Persistence Hibernate](jpa_persistence_hibernate.md)
+- Curso [JPA Avanzado](jpa_avanzado.md)
+- Curso [Spring Boot 1](spring_boot_1.md)
+- Curso [Spring Boot 2](spring_boot_2.md)
+- Curso [Spring Boot 3](spring_boot_3.md)
+## Lectura
+- Lectura [JDBC](https://www.aluracursos.com/blog/conociendo-el-jdbc)
+- Lectura [Maven](https://www.aluracursos.com/blog/que-es-maven)
+- Lectura [Rest](https://www.aluracursos.com/blog/rest-concepto-y-fundamentos)
 
 Avanzando en SQL con MySQL
 

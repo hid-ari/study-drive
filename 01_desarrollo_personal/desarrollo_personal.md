@@ -1,5 +1,5 @@
-# Habilidades Blandas
-
+# Desarrollo Personal
+## Habilidades Blandas
 Durante los cursos vas a conocer herramientas para promover tu foco, aprender conceptos como el loop del hábito, el método S.M.A.R.T, GTD (Getting Things Done) y aplicarlos para mejorar tu organización y desarrollar nuevos hábitos y mejorar tu desarrollo personal.
 
 El desarrollo personal ayuda a establecer un mindset de alta performance, desarrollar la oratoria, mejorar las relaciones interpersonales y a entender como ofrecer y recibir feedbacks de la mejor forma.
@@ -20,7 +20,6 @@ Esta formación forma parte del Programa ONE, una alianza entre Alura Latam y Or
 3. Diagnostico
 
 ## Aprender a aprender
-
 Resumen: [pdf online](https://caelum-online-public.s3.amazonaws.com/ESP-1962-Aprender+a+aprender/Aprender+a+Aprender.pdf) 
 
 1. Estudiar un poco todos los dias.
@@ -30,48 +29,41 @@ Resumen: [pdf online](https://caelum-online-public.s3.amazonaws.com/ESP-1962-Apr
 5. Actualizarse, mantenerse al tanto de tecnologias, aprendizaje constante.
 
 ## Tu Ikigai
-
 ### Lo que amas
-
 1. Solucionar problematicas practicas con software, y automatización.
 2. Aprender y profundizar en lenguajes de programación y utilizarlo en soluciones/proyectos.
 3. Estar al tanto de los avances en software y hardware. Sistemas operativos y Aplicaciones.
 
-## Lo que haces bien
-
+### Lo que haces bien
 1. Aprendizaje constantemente.
 2. Desarrollo de proyectos personales integrando distintas tecnologías.
 3. Comunicación en persona.
 
-## Lo que puede ser pago por hacer
-
+### Lo que puede ser pago por hacer
 1. Soluciones de software.
 2. Comunicar ideas.
 
-## Lo que el mundo necesita
-
+### Lo que el mundo necesita
 1. Mas automatización de tareas.
 2. Mas conocimiento y adopción de tecnologias seguras.
 
 ## Perfiles de recepcion de información
 
-| Perfíl | Descripción |
-| - | - |
-| Acomodador | Escucha lo que la otra persona tiene que decir.</br>Pero aprende haciendo. |
-| Divergente | Vivencia la experiencia pero aprende discutiendo</br>, pensando, reflexionando. |
-| Convergente | Aprende resolviendo problemas |
-| Asimilador | Aprende analisando y observando |
+| Perfíl      | Descripción                                                                     |
+| ----------- | ------------------------------------------------------------------------------- |
+| Acomodador  | Escucha lo que la otra persona tiene que decir.</br>Pero aprende haciendo.      |
+| Divergente  | Vivencia la experiencia pero aprende discutiendo</br>, pensando, reflexionando. |
+| Convergente | Aprende resolviendo problemas                                                   |
+| Asimilador  | Aprende analisando y observando                                                 |
 
 ![image](https://github.com/hid-ari/study_drive/blob/main/01_desarrollo_personal/imgs/dimensiones_aprendizaje_Kolb.png?raw=true) 
 
 [Estilos de aprendizaje de Kolb](https://www.actualidadenpsicologia.com/la-teoria-de-los-estilos-de-aprendizaje-de-kolb/)
 ## Zona de confort
-
 Entusiasmo -> Estrés -> Aprendizaje
 
 [Teoría de Flujo Mihaly](teoria-de-flujo-mihaly-csikszentmihalyi-toolshero.jpg)
 ## Disciplina
-
 Constancia, dedicación, compromiso.
 
 - Disposición: Momento en que empieza la acción.
@@ -80,14 +72,12 @@ Constancia, dedicación, compromiso.
 
 [Curso Extra](https://app.aluracursos.com/course/feedback-arte-orientar-orientado-sentido)
 ## Sumario
-
 - Lifelong Learning
 - Autoconocimiento y propósito
 - Estilo individual de aprendizaje
 - Zona de Aprendizaje y Disiplina
 
-## Eliminar barreras
-
+### Eliminar barreras
 - Distracción
 - Falta de tiempo/prorización
 - Enfoque
@@ -107,8 +97,7 @@ que más te incomodan? ¿Cómo y cuándo ocurren?
 > Ahora, para cada una, define un plan de acción para poner en práctica y evitar
 que te incomoden en tu rutina.
 
-## Develeando el cerebro
-
+### Develeando el cerebro
 Mindset Fijo
 
 - La inteligencia es algo limitado.
@@ -150,7 +139,7 @@ Es importante tomar pausas, caminar, descanzar. dormir.
 - El 80% de lo que hacen.
 - El 95% de lo que enseñan a otros.
 
-## Formatos de aprendizaje
+### Formatos de aprendizaje
 
 | Formato           | Características                                                                                       |
 | ----------------- | ----------------------------------------------------------------------------------------------------- |
@@ -177,7 +166,7 @@ Cramming: Aprender un gran volumen de contenido en poco tiempo.
 Practica Distribuida: Distribuir los estudios para que la curva de aprendizaje
 se mantenga regular.
 
-## Memoria a largo plazo
+### Memoria a largo plazo
 
 El aprendizaje es el proceso de adquirir información para la memoria de largo plazo. Juntar diferentes bloques de conocimiento y saber como aplicarlo. Divide una habilidad en subhabilidades. Pequeñas partes para aprender.
 
@@ -206,14 +195,14 @@ Párrafos -> Reflexiones
 ¿Cómo puedes, con base en los ejemplos del curso, romperlos en pequeños
 bloques y organizar tu proceso de aprendizaje?
 
-## Definiendo una meta
+### Definiendo una meta
 
 > ..."Lo que puede ser medido puede ser mejorado"... *Peter Drucker*
 
 - ¿Por qué lo quiero aprender?
 - ¿Dónde lo voy a usar?
 - ¿Cuando quiero estar listo?
-## Metodo SMART
+### Metodo SMART
 
 | -   | SMART      |
 | --- | ---------- |
@@ -225,7 +214,7 @@ bloques y organizar tu proceso de aprendizaje?
 
 [Método SMART](https://trabajarporelmundo.org/metodo-smart/)
 
-##  Niveles de medicón
+###  Niveles de medicón
 
 - ¿Satisfación con el proceso de aprendizaje?
 - ¿Recuerdas lo aprendido?
@@ -247,7 +236,7 @@ y aprendiste recientemente y haz una reflexión sobre tu aprovechamiento en cada
 
 Midiendo la evolución
 
-## Rutina de aprendizaje
+### Rutina de aprendizaje
 
 - Organiza tu agenda de la semana.
 - Define (y respeta) el tiempo por día.
@@ -278,13 +267,13 @@ próxima semana considerando:
 ¿Qué formatos y estilos, considerando tu perfil personal, vas a elegir para
 incluir en esta agenda?
 
-## Ejercita cuerpo y mente
+### Ejercita cuerpo y mente
 
 Hacer actividad física (aunque sea por poco tiempo) auxilia las conexiones entre neuronas del hipocampo, región cerebral asociada al aprendizaje y a la memoria.
 
 Dormir crea nuevos caminosy mejora el modo difuso.
 
-## Herramientas
+### Herramientas
 
 - Google Alerts
 - Linkedin:

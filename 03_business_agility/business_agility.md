@@ -243,72 +243,47 @@ En este caso, tendríamos los 3 elementos:
 - **Restricciones:**
   - El presupuesto es de $30.00 por persona.
   - Cada colaborador solo puede llevar a un invitado.
-  - La fiesta tiene que ser durante la tarde. Tiene que suceder en la ciudad de
-  la empresa, para facilitar los desplazamientos.
+  - La fiesta tiene que ser durante la tarde. Tiene que suceder en la ciudad de la empresa, para facilitar los desplazamientos.
 
 Con esta información, el propio equipo se organizará para lograr el objetivo determinado.
+
 #### Tipos de equipos ágiles
 
 Existen tres tipos de equipos que están presentes en los ambientes ágiles:
 
-Equipos de **funcionalidad** que se enfoca en maximizar el valor en la entrega de
-un feature. **Componente**, Equipo que tiene como foco optimizar un solo elemento.
-Y **jornada del cliente**, grupos con comportamientos similares.
+Equipos de **funcionalidad** que se enfoca en maximizar el valor en la entrega de un feature. **Componente**, Equipo que tiene como foco optimizar un solo elemento. Y **jornada del cliente**, grupos con comportamientos similares.
 
-- **Funcionalidades:** Ese equipo se organiza en torno de una funcionalidad y se
-preocupa en maximizar el valor en la entrega al usuario para una mejor experiencia
-posible. El equipo necesita ser multidisciplinario, ya que necesita trabajar en
-diversos puntos en el código.
-- **Componente:** este equipo funciona muy bien para hacer optimizaciones locales;
-sin embargo, puede ser crítico alterar un componente, ya que puede ser usado en
-diversas funcionalidades, además de garantizar la sincronización de los componentes
-que fueron alterados.
-- **Jornada del cliente:** este equipo se enfoca en grupos de clientes que poseen
-comportamiento o necesidades semejantes.
+- **Funcionalidades:** Ese equipo se organiza en torno de una funcionalidad y se preocupa en maximizar el valor en la entrega al usuario para una mejor experiencia posible. El equipo necesita ser multidisciplinario, ya que necesita trabajar en diversos puntos en el código.
+- **Componente:** este equipo funciona muy bien para hacer optimizaciones locales; sin embargo, puede ser crítico alterar un componente, ya que puede ser usado en diversas funcionalidades, además de garantizar la sincronización de los componentes que fueron alterados.
+- **Jornada del cliente:** este equipo se enfoca en grupos de clientes que poseen comportamiento o necesidades semejantes.
+- 
 #### Esquipo Scrum
 
-El equipo de Scrum es un grupo de personas que tienen como objetivo hacer productos
-excepcionales, y para que eso suceda, son necesarias 3 responsabilidades:
+El equipo de Scrum es un grupo de personas que tienen como objetivo hacer productos excepcionales, y para que eso suceda, son necesarias 3 responsabilidades:
 
 - **Eficaz** *(Product Owner)*: responsable de asegurar que el producto a desarrollar
-tenga sentido para el mercado. De nada sirve producir el mejor producto si no tienes
-un cliente para él.
 
-- **Calidad** *(Dev. Team)*: responsable de asegurar que el producto elaborado sea
-el correcto para ese mercado específico y público objetivo.
+tenga sentido para el mercado. De nada sirve producir el mejor producto si no tienes un cliente para él.
 
-- **Eficiencia** *(Scrum Master)*: responsable de asegurar que el equipo opere de
-la mejor manera posible.
+- **Calidad** *(Dev. Team)*: responsable de asegurar que el producto elaborado sea el correcto para ese mercado específico y público objetivo.
 
-Es decir, que un equipo ágil se organiza de manera que cuenta con personas que se
-encargan de asegurar que el producto a desarrollar esté alineado con lo que espera
-el mercado, que la calidad y tecnologías empleadas estén siendo adecuadas y además
-por personas responsables de asegurar que el equipo funcione de manera eficiente,
-sin cuellos de botella.
+- **Eficiencia** *(Scrum Master)*: responsable de asegurar que el equipo opere de la mejor manera posible.
+
+Es decir, que un equipo ágil se organiza de manera que cuenta con personas que se encargan de asegurar que el producto a desarrollar esté alineado con lo que espera el mercado, que la calidad y tecnologías empleadas estén siendo adecuadas y además por personas responsables de asegurar que el equipo funcione de manera eficiente, sin cuellos de botella.
+
 #### El product owner
 
 *¿Qué es Product Owner?*
 
-Es el responsable del rol de Product Owner tiene el desafío de maximizar el valor
-que ese producto generará para el negocio.
+Es el responsable del rol de Product Owner tiene el desafío de maximizar el valor que ese producto generará para el negocio.
 
-Para ello, el PO, además de tener un alto enfoque y sentido de pertenencia, deberá
-dialogar frecuentemente con el resto de áreas que forman parte de la empresa, para
-entender cuáles son los puntos clave frente a los dolores de los clientes y conocer
-a profundidad el producto y mercado en el que opera la empresa.
+Para ello, el PO, además de tener un alto enfoque y sentido de pertenencia, deberá dialogar frecuentemente con el resto de áreas que forman parte de la empresa, para entender cuáles son los puntos clave frente a los dolores de los clientes y conocer a profundidad el producto y mercado en el que opera la empresa.
 
 *¿Cómo es la vida diaria de un PO?*
 
-En su vida diaria, el PO tendrá que describir lo que se debe hacer y para eso es
-necesario hablar con otras áreas para comprender las necesidades y también lo que
-se puede o no se puede hacer. Además de priorizar lo que se necesita construir,
-el PO a menudo tendrá que decir no a las características que agregan menos valor
-al negocio o proyecto en ese momento.
+En su vida diaria, el PO tendrá que describir lo que se debe hacer y para eso es necesario hablar con otras áreas para comprender las necesidades y también lo que se puede o no se puede hacer. Además de priorizar lo que se necesita construir, el PO a menudo tendrá que decir no a las características que agregan menos valor al negocio o proyecto en ese momento.
 
-> Ser Product Owner implica mantener interacciones de influencia continua con
-distintos actores clave dentro y fuera de la organización, situándolo en una
-posición panóptica del sistema y que por lo tanto facilita entender cómo las
-decisiones impactan en los resultados deseados.
+> Ser Product Owner implica mantener interacciones de influencia continua condistintos actores clave dentro y fuera de la organización, situándolo en unaposición panóptica del sistema y que por lo tanto facilita entender cómo las decisiones impactan en los resultados deseados.
 
 Extracto de [lectura](https://medium.com/@kleer.la/qu%C3%A9-es-el-product-owner-en-el-marco-de-scrum-y-cu%C3%A1les-son-sus-%C3%A1reas-de-atenci%C3%B3n-2bddbb232775)
 #### Development team
@@ -316,28 +291,19 @@ Extracto de [lectura](https://medium.com/@kleer.la/qu%C3%A9-es-el-product-owner-
 Un equipo de desarrollo está compuesto por personas que pueden ser:
 
 - Especialista: alguien con profundos conocimientos sobre cualquier tema.
-- Generalista: una persona que sabe un poco de todo, pero no tiene un contenido
-profundo.
-- En forma de T: alguien con experiencia en algo, pero con conocimientos generales
-en otras cosas.
+- Generalista: una persona que sabe un poco de todo, pero no tiene un contenido profundo.
+- En forma de T: alguien con experiencia en algo, pero con conocimientos generales en otras cosas.
 
-Es común en el mercado de áreas no tecnológicas que utilizan métodos ágiles.
-Más aún, en estos momentos cuando las empresas están pasando por un proceso de
-transformación ágil, introduciendo agilidad empresarial en el entorno corporativo.
+Es común en el mercado de áreas no tecnológicas que utilizan métodos ágiles. Más aún, en estos momentos cuando las empresas están pasando por un proceso de transformación ágil, introduciendo agilidad empresarial en el entorno corporativo.
 
 Un equipo de desarrollo es responsable de construir, validar e integrar un
-incremento de producto. Además, este equipo está compuesto por personas que no
-tienen títulos, todos son "miembros" de ese equipo.
+incremento de producto. Además, este equipo está compuesto por personas que no tienen títulos, todos son "miembros" de ese equipo.
 
-Y una de las características más interesantes para que una persona sea parte de
-un Equipo de Desarrollo o incluso de un equipo ágil es que tiene forma de T,
-es decir, además de tener al menos una experiencia en la que es especialista,
-también logra ser generalistas, pudiendo actuar con soltura en diferentes roles
-y temas.
+Y una de las características más interesantes para que una persona sea parte de un Equipo de Desarrollo o incluso de un equipo ágil es que tiene forma de T, es decir, además de tener al menos una experiencia en la que es especialista, también logra ser generalistas, pudiendo actuar con soltura en diferentes roles y temas.
+
 #### Scrum master
 
-El rol de coach es una de las tareas del Scrum Master. Hacer preguntas al equipo
-que genere reflexión y asegurarse de que las personas puedan dar sus propias respuestas.
+El rol de coach es una de las tareas del Scrum Master. Hacer preguntas al equipo que genere reflexión y asegurarse de que las personas puedan dar sus propias respuestas.
 
 La persona en el rol de Scrum Master es responsable de maximizar la eficiencia
 del Scrum Team, promover y apoyar Scrum y ayudar a mejorar las interacciones existentes.

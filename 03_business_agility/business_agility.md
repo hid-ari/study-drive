@@ -40,34 +40,30 @@
   2. **Working software OVER Documentation**:  
   Tener software funcionando es más importante que documentación detallada.
   3. **Customer collaboration OVER Contract**:  
-  La colaboración del cliente es más importante que la negociación del contrato;
-  es decir, la proximidad es esencial para que la retroalimentación tenga mayor
+  La colaboración del cliente es más importante que la negociación del contrato; es decir, la proximidad es esencial para que la retroalimentación tenga mayor
   valor y lograr que eso impacte el flujo de trabajo.
   4. **Responding OVER Following a plan**:  
   Responder a los cambios es más importante que seguir un plan.
 
 - **Cases**
 
-  Con el uso de métodos ágiles a partir de cases, logramos observar diversos
-  resultados dentro de pequeñas y grandes empresas.
-  Esto no implica un simple copy y paste de prácticas de agilidad que fueron
-  tomadas de otras organizaciones: el que hayan generado un buen resultado no
-  implica que la fórmula funcionará en todas.
+  Con el uso de métodos ágiles a partir de cases, logramos observar diversos resultados dentro de pequeñas y grandes empresas.
+  Esto no implica un simple copy y paste de prácticas de agilidad que fueron tomadas de otras organizaciones: el que hayan generado un buen resultado no implica que la fórmula funcionará en todas.
+  
   Se debe analizar y entender por qué determinada empresa aplicó cierta
   característica ágil, qué buscaba resolver con ello y analizar los factores
   dentro de cada empresa antes de implantar la misma metodología en tu equipo.
+  
+  Alura Blog - Que es la [metodología ágil](https://www.aluracursos.com/blog/que-es-la-metodologia-agil)
 
-Alura Blog - Que es la [metodología ágil](https://www.aluracursos.com/blog/que-es-la-metodologia-agil)
 ## El ambiente ágil
 
 ### [Gestíon ágil](https://app.aluracursos.com/course/gestion-agil-liderando-cambio)
 
 #### Gestíon Tradicional
 
-La gestión tradicional pudo haber funcionado durante mucho tiempo, pero hoy
-comienza a dar señales de que está perdiendo espacio, ya que está relacionada
-con un ambiente de baja autonomía, bajo nivel de engagement y poca motivación,
-que tienen un impacto directo en el nivel de éxito de los proyectos.
+La gestión tradicional pudo haber funcionado durante mucho tiempo, pero hoy comienza a dar señales de que está perdiendo espacio, ya que está relacionada con un ambiente de baja autonomía, bajo nivel de engagement y poca motivación, que tienen un impacto directo en el nivel de éxito de los proyectos.
+
 #### VUCA
 
 - **Volátil**: algo que hoy se da por hecho puede ser diferente mañana.
@@ -75,8 +71,8 @@ que tienen un impacto directo en el nivel de éxito de los proyectos.
 - **Complejo**: la solución no tiene necesariamente una estructura clara.
 - **Ambiguo**: lo que funciona en cierto contexto puede ser inútil en otro similar.
 
-Es necesario reducir el tiempo en el que se obtiene retroalimentación por parte
-del cliente para actuar lo más rápido posible.
+Es necesario reducir el tiempo en el que se obtiene retroalimentación por parte del cliente para actuar lo más rápido posible.
+
 #### Motivación
 
 Como lo decía Ricardo Semler: "Los miedos e inseguridades crean las estructuras
@@ -98,7 +94,7 @@ y no es fijo, por lo que puede cambiar conforme sea necesario.
 [caso spotify](https://hbr.org/2017/02/how-spotify-balances-employee-autonomy-and-accountability)
 #### Empoderar y delegar
 
-***Delegation Poker***
+***Delegation Poker*
 
 1. Ordenar
 2. Vender
@@ -108,25 +104,16 @@ y no es fijo, por lo que puede cambiar conforme sea necesario.
 6. Informar
 7. Delegación completa
 
-Generalmente, las personas en un alto nivel jerárquico poseen un mayor conocimiento
-e información de todo el contexto; sin embargo, estos datos son más abstractos.
-Mientras tanto, en un nivel jerárquico más bajo hay muchos más detalles, pero la
-visión está un poco más limitada.
+Generalmente, las personas en un alto nivel jerárquico poseen un mayor conocimiento e información de todo el contexto; sin embargo, estos datos son más abstractos. Mientras tanto, en un nivel jerárquico más bajo hay muchos más detalles, pero la visión está un poco más limitada.
 
-El secreto de un buen proceso de toma de decisión se basa justamente en encontrar
-el equilibrio respecto a ese conocimiento. Delegation Poker es una forma de mapear
-las decisiones y el nivel de empoderamiento dentro de las organizaciones.
+El secreto de un buen proceso de toma de decisión se basa justamente en encontrar el equilibrio respecto a ese conocimiento. Delegation Poker es una forma de mapear las decisiones y el nivel de empoderamiento dentro de las organizaciones.
 
 #### Retroalimentación y conocimiento
 
-La retroalimentación genera conocimiento y logra el crecimiento de la persona,
-haciendo que salga de una etapa de habilidad inconsciente y logrando que sea
-consciente de ella, con lo que será capaz de adquirirla.
+La retroalimentación genera conocimiento y logra el crecimiento de la persona, haciendo que salga de una etapa de habilidad inconsciente y logrando que sea consciente de ella, con lo que será capaz de adquirirla.
 
-Por ello, la retroalimentación debe ser llevada a cabo con cuidado: considerar
-el contexto, dar hechos, tomar en cuenta los valores y hacer preguntas poderosas
-requieren ser usados siempre dentro del proceso. Esta herramienta genera
-conocimiento para la organización.
+Por ello, la retroalimentación debe ser llevada a cabo con cuidado: considerar el contexto, dar hechos, tomar en cuenta los valores y hacer preguntas poderosas requieren ser usados siempre dentro del proceso. Esta herramienta genera conocimiento para la organización.
+
 #### Mejoras
 
 ***Kaikaku***: Un gran cambio, una vez.  
@@ -151,24 +138,18 @@ Recibir retroalimentación es fundamental para acompañar el proceso de mejora
 continua. Kaizen es una de las herramientas útiles para ello.
 
 > Lectura: Personal [maps](https://management30.com/blog/personal-maps-connecting-teams-improving-team-collaboration/)
+
 ### [La empresa ágil](https://app.aluracursos.com/course/empresa-agil-introduciendo-business-agility-organizaciones)
 
-Al eliminar burocracias innecesarias en los procesos, es posible hacer que una
-organización sea más adaptable a los cambios, porque cuando un cambio es necesario,
-será menos traumático, ya que habrá menos barreras para el cambio.
+Al eliminar burocracias innecesarias en los procesos, es posible hacer que una organización sea más adaptable a los cambios, porque cuando un cambio es necesario, será menos traumático, ya que habrá menos barreras para el cambio.
 
-Cuando hablamos de agilidad, eso es exactamente lo que queremos, una mejor
-adaptabilidad a los cambios y no, como las malas interpretaciones que ocurren,
-hacen que un entorno sea más rápido.
+Cuando hablamos de agilidad, eso es exactamente lo que queremos, una mejor adaptabilidad a los cambios y no, como las malas interpretaciones que ocurren, hacen que un entorno sea más rápido.
 
 #### Identificando la complejidad
 
 Los problemas se dividen básicamente en dos grupos: **Intelectivo** o **Subjetivo**.
 
-Los problemas subjetivos son aquellos que tienen más de una forma de resolverse
-y solo sabemos si la forma utilizada fue la más correcta después de intentar resolverlo.
-Cuantos más problemas subjetivos tengamos, más complejo podemos decir que es el
-entorno que estamos mapeando.
+Los problemas subjetivos son aquellos que tienen más de una forma de resolverse y solo sabemos si la forma utilizada fue la más correcta después de intentar resolverlo. Cuantos más problemas subjetivos tengamos, más complejo podemos decir que es el entorno que estamos mapeando.
 
 Por otro lado, un problema intelectual es aquel en el que identificamos una única
 forma posible de resolverlo y esa forma ya está probada y comprobada.

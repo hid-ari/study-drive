@@ -1,12 +1,9 @@
 # Emprendimiento
 
 ## Cursos
-- Curso [Business Model Canvas](business_model_canvas)
-- Curso [Lean Startup](lean_startup)
-- Curso [Pitch Entrevistas](enums_anotaciones_java.md)
-- Curso [Excepciones](excepciones.md)
-- Curso [Bibliotecas Principales](bibliotecas_principales.md)
-- Curso [Java.util
+- Curso [Business Model Canvas](business_model_canvas.md)
+- Curso [Lean Startup](lean_startup.md)
+- Curso [Pitch Entrevistas](pitch_entrevistas.md)
 
 ## De la idea al plan de negocios
 

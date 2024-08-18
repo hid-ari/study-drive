@@ -14,7 +14,6 @@ realizar una presentación relevante
 - Como transformar BMY en Pitch
 - Recomendaciones para una buena preparación
 
-
 ### Presentación del Pitch
 
 Los primeros segundos de cualquier presentación tratan de:

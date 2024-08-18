@@ -149,10 +149,10 @@ informa los cambios, pero no atualiza el working tree.
 - Ramas, `git branch`
     - `git branch`: muestra el nombre de rama actual.
     - `git branch -a`: muestra las ramas existentes.
-    - `git branch <rama>`: crea la ramas <rama>.
-- `git checkout <rama>`: cambia a la rama <rama>.
-- `git checkout -b <rama>`: crea y cambia a la rama <rama>.
-> Las branches ("ramas") se utilizan para desarrollar funcionalidades aisladas entre sí. La branch master es la branch "predeterminada" cuando creas un repositorio.
+    - `git branch <rama>`: crea la ramas `<rama>`.
+    - git checkout `<rama>`: cambia a la rama `<rama>`.
+    - git checkout -b `<rama>`: crea y cambia a la rama `<rama>`.
+Las branches ("ramas") se utilizan para desarrollar funcionalidades aisladas entre sí. La branch master es la branch "predeterminada" cuando creas un repositorio.
 > Nota: [Licencias](https://www.aluracursos.com/blog/open-source-una-breve-introduccion)
 de software, FreeSofware y Open Source.
 

@@ -151,41 +151,31 @@ Los problemas se dividen básicamente en dos grupos: **Intelectivo** o **Subjeti
 
 Los problemas subjetivos son aquellos que tienen más de una forma de resolverse y solo sabemos si la forma utilizada fue la más correcta después de intentar resolverlo. Cuantos más problemas subjetivos tengamos, más complejo podemos decir que es el entorno que estamos mapeando.
 
-Por otro lado, un problema intelectual es aquel en el que identificamos una única
-forma posible de resolverlo y esa forma ya está probada y comprobada.
-Esto hace que un entorno que tiene más procesos y problemas intelectuales sea menos
+Por otro lado, un problema intelectual es aquel en el que identificamos una única forma posible de resolverlo y esa forma ya está probada y comprobada. Esto hace que un entorno que tiene más procesos y problemas intelectuales sea menos
 complejo.
 
 > Se comentan estructuras de organización
 
 #### Radiografía de una empresa
 
-Cuando buscamos un entorno más ágil para nuestra corporación, uno de los principales
-desafíos que encontramos es reducir los silos existentes entre las áreas.
+Cuando buscamos un entorno más ágil para nuestra corporación, uno de los principales desafíos que encontramos es reducir los silos existentes entre las áreas.
 
-Los silos son aquellas áreas que operan de forma independiente entre sí y que
-muchas veces generan incluso desalineación en el negocio (una compitiendo y no
-colaborando con la otra).
+Los silos son aquellas áreas que operan de forma independiente entre sí y que muchas veces generan incluso desalineación en el negocio (una compitiendo y no colaborando con la otra).
 
-Aprendimos que para reducir estos silos, necesitamos hacer que estas áreas comiencen
-a integrar sus procesos co-creándolos y generando un compromiso entre ellos,
-reduciendo burocracias y mediante metas compartidas.
+Aprendimos que para reducir estos silos, necesitamos hacer que estas áreas comiencen a integrar sus procesos co-creándolos y generando un compromiso entre ellos, reduciendo burocracias y mediante metas compartidas.
 
 Finalmente, incluso es posible romper estos silos creando estructuras
 multidisciplinares, que simplifican las burocracias, hacen que las áreas sean
 más conocedoras y, en consecuencia, más ágiles.
+
 #### Enfoque en la generación de valor
 
 Las empresas ágiles tienen un enfoque muy fuerte en generar valor para el negocio.
 
-Una forma de mapear dentro de la organización cuáles son las unidades que generan
-valor es identificar las unidades de valor más pequeñas, es decir, un grupo mínimo
-de funciones e iniciativas que trabajando en conjunto pueden hacer que un producto
-o iniciativa genere un resultado para el negocio.
+Una forma de mapear dentro de la organización cuáles son las unidades que generan valor es identificar las unidades de valor más pequeñas, es decir, un grupo mínimo de funciones e iniciativas que trabajando en conjunto pueden hacer que un producto o iniciativa genere un resultado para el negocio.
 
-Este mapeo es importante para encontrar posibles silos existentes y mapear qué
-puntos de integración entre áreas pueden causar cuellos de botella que impiden
-que una empresa sea realmente ágil.
+Este mapeo es importante para encontrar posibles silos existentes y mapear qué puntos de integración entre áreas pueden causar cuellos de botella que impiden que una empresa sea realmente ágil.
+
 #### Como aprende una empresa a ser ágil
 
 Learning 3.0, aprendizaje emergente.
@@ -204,23 +194,12 @@ pensando en lo que es factible para este entorno.
 
 [Management 3.0](https://www.aluracursos.com/blog/que-es-management-3-0-y-por-que-aplicarlo-en-tu-empresa)
 
-1. **Energizar personas** Para que la estrategia sea exitosa, es importante involucrar
-a las personas y mantenerlas siempre creativas y motivadas para hacer lo mejor.
-2. **Capacitar personas** Los equipos deben estar autoorganizados y, por lo tanto,
-necesitan autorización y confianza de la gerencia.
-3. **Alinear restricciones** Si bien se alienta a los equipos a autogestionarse, es
-importante traer reglas y limitaciones para que una mayor libertad no se vuelva
-tóxica para la empresa.
-4. **Desarrollar habilidades** Un equipo, dado que se autoorganiza, también debe ser
-autosuficiente. Por esta razón, es necesario capacitar a los empleados y también
-se pueden crear equipos multidisciplinarios, en los que todos puedan hacer su parte
-para avanzar en un proyecto.
-5. **Aumentar las estructuras** Con un mayor enfoque en la comunicación y la
-colaboración entre equipos, se fomenta un crecimiento consciente del negocio con
-un enfoque en la calidad.
-6. **Mejorar todo Finalmente**, se buscan mejoras constantes y los errores deben verse
-como oportunidades de mejora. Con esto, es posible apalancar el negocio de una
-manera sostenible y predecible.
+1. **Energizar personas** Para que la estrategia sea exitosa, es importante involucrar a las personas y mantenerlas siempre creativas y motivadas para hacer lo mejor.
+2. **Capacitar personas** Los equipos deben estar autoorganizados y, por lo tanto, necesitan autorización y confianza de la gerencia.
+3. **Alinear restricciones** Si bien se alienta a los equipos a autogestionarse, es importante traer reglas y limitaciones para que una mayor libertad no se vuelva tóxica para la empresa.
+4. **Desarrollar habilidades** Un equipo, dado que se autoorganiza, también debe ser autosuficiente. Por esta razón, es necesario capacitar a los empleados y también se pueden crear equipos multidisciplinarios, en los que todos puedan hacer su parte para avanzar en un proyecto.
+5. **Aumentar las estructuras** Con un mayor enfoque en la comunicación y la colaboración entre equipos, se fomenta un crecimiento consciente del negocio con un enfoque en la calidad.
+6. **Mejorar todo Finalmente**, se buscan mejoras constantes y los errores deben verse como oportunidades de mejora. Con esto, es posible apalancar el negocio de una manera sostenible y predecible.
 
 > Lectura: Trabajar en una [StartUp](https://www.aluracursos.com/blog/quiero-trabajar-en-una-startup-que-necesito-hacer)
 
@@ -228,38 +207,29 @@ manera sostenible y predecible.
 
 #### El equipo ágil
 
-En un equipo ágil, todo el conocimiento necesario para que el proyecto evolucione
-está dentro del mismo equipo. Esto significa tener un equipo multidisciplinario,
-que puede involucrar en el mismo equipo: vendedores, marketing, desarrolladores,
-infraestructura, RRHH, etc. Por supuesto, cada una de estas personas y áreas
-tendrá un rol diferente en el proyecto y en el futuro aprenderemos qué roles
-pueden existir.
+En un equipo ágil, todo el conocimiento necesario para que el proyecto evolucione está dentro del mismo equipo. Esto significa tener un equipo multidisciplinario, que puede involucrar en el mismo equipo: vendedores, marketing, desarrolladores, infraestructura, RRHH, etc. Por supuesto, cada una de estas personas y áreas tendrá un rol diferente en el proyecto y en el futuro aprenderemos qué roles pueden existir.
 
 Pero el punto principal es: todo lo que el proyecto necesita en conocimiento
 para evolucionar, debe estar dentro del mismo equipo.
 
 ##### Diferencia entre Modelo Waterfall o Cascada y Agile
 
-**Modelo en cascada:** favorece los problemas de comunicación (el famoso teléfono
-inalámbrico), con la necesidad de muchos documentos y protocolos, muchos traspasos
-entre equipos y, con ello, la validación de todo lo que se construyó durante el
-proceso de desarrollo de un proyecto solo ocurre al final. Por otro lado, existe
-un enfoque muy fuerte en la especialización de las personas.
+**Modelo en cascada:** favorece los problemas de comunicación (el famoso teléfono inalámbrico), con la necesidad de muchos documentos y protocolos, muchos traspasos entre equipos y, con ello, la validación de todo lo que se construyó durante el proceso de desarrollo de un proyecto solo ocurre al final. Por otro lado, existe un enfoque muy fuerte en la especialización de las personas.
 
 **Modelo ágil:** en un equipo ágil, todas las personas que participarán en el
-desarrollo del proyecto confluyen en todas las etapas de este proceso, siendo
-un solo equipo. Se centra en la inspección y adaptación de productos, la
-transparencia y la eficiencia.
+desarrollo del proyecto confluyen en todas las etapas de este proceso, siendo un solo equipo. Se centra en la inspección y adaptación de productos, la transparencia y la eficiencia.
+
 #### Auto-organización
 
 La auto-organización es justamente lo opuesto al mando y control.
-
 Las premisas básicas e imprescindibles para que un equipo se autoorganice es tener:
-| <!-- --> | <!-- --> |
-| - | - |
+
 | **Objetivo compartido** | Definir el objetivo en el que todos los miembros del equipo participarán en el desarrollo del proyecto de forma compartida |
-| **Timebox** | Tiempo necesario para que la autoorganización funcione |
-| **Restricciones** | Lo que no se debe hacer en el desarrollo del proyecto |
+| ----------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+|                         |                                                                                                                            |
+| **Timebox**             | Tiempo necesario para que la autoorganización funcione                                                                     |
+| **Restricciones**       | Lo que no se debe hacer en el desarrollo del proyecto                                                                      |
+
 
 Por ejemplo: se le asignó la tarea de organizar la fiesta de vacaciones de su
 empresa para 150 personas.

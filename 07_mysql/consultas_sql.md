@@ -1,6 +1,6 @@
 # Consultas SQL
 ## Cursos
-- Curso [Java y JDBC](jdbc.md)
+- Curso [](jdbc.md)
 - Curso [JPA Persistence Hibernate](jpa_persistence_hibernate.md)
 - Curso [JPA Avanzado](jpa_avanzado.md)
 - Curso [Spring Boot 1](spring_boot_1.md)

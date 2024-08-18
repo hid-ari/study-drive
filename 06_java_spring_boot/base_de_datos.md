@@ -1,7 +1,7 @@
 # Java y Bases de Datos
 ## Cursos
 - Curso [Java y JDBC](jbdc.md)
-- Curso [Lean Startup](lean_startup.md)
+- Curso [JPA persistencia hib](lean_startup.md)
 - Curso [Pitch Entrevistas](pitch_entrevistas.md)
 
 Para desarrollar una aplicación más completa y robusta, es probable que se

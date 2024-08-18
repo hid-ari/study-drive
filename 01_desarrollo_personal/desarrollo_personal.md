@@ -70,7 +70,7 @@ Resumen: [pdf online](https://caelum-online-public.s3.amazonaws.com/ESP-1962-Apr
 Entusiasmo -> Estrés -> Aprendizaje
 
 [Teoría de Flujo Mihaly](teoria-de-flujo-mihaly-csikszentmihalyi-toolshero.jpg)
-## Disciplina
+# Disciplina
 
 Constancia, dedicación, compromiso.
 
@@ -79,14 +79,14 @@ Constancia, dedicación, compromiso.
 - Recompensa: Resultado positivo al final que motiva a seguir.
 
 [Curso Extra](https://app.aluracursos.com/course/feedback-arte-orientar-orientado-sentido)
-## Sumario
+# Sumario
 
 - Lifelong Learning
 - Autoconocimiento y propósito
 - Estilo individual de aprendizaje
 - Zona de Aprendizaje y Disiplina
 
-## Eliminar barreras
+# Eliminar barreras
 
 - Distracción
 - Falta de tiempo/prorización
@@ -106,7 +106,8 @@ que más te incomodan? ¿Cómo y cuándo ocurren?
 
 > Ahora, para cada una, define un plan de acción para poner en práctica y evitar
 que te incomoden en tu rutina.
-## Develeando el cerebro
+
+# Develeando el cerebro
 
 Mindset Fijo
 
@@ -148,7 +149,8 @@ Es importante tomar pausas, caminar, descanzar. dormir.
 - El 70% de lo que discuten con otros.
 - El 80% de lo que hacen.
 - El 95% de lo que enseñan a otros.
-#### Formatos de aprendizaje
+
+# Formatos de aprendizaje
 
 | Formato           | Características                                                                                       |
 | ----------------- | ----------------------------------------------------------------------------------------------------- |
@@ -174,12 +176,10 @@ Es importante tomar pausas, caminar, descanzar. dormir.
 Cramming: Aprender un gran volumen de contenido en poco tiempo.
 Practica Distribuida: Distribuir los estudios para que la curva de aprendizaje
 se mantenga regular.
-#### Memoria a largo plazo
 
-El aprendizaje es el proceso de adquirir información para la memoria de largo
-plazo. Juntar diferentes bloques de conocimiento y saber como aplicarlo.
+# Memoria a largo plazo
 
-Divide una habilidad en subhabilidades. Pequeñas partes para aprender.
+El aprendizaje es el proceso de adquirir información para la memoria de largo plazo. Juntar diferentes bloques de conocimiento y saber como aplicarlo. Divide una habilidad en subhabilidades. Pequeñas partes para aprender.
 
 Chunks = Bloque:
 - Pequeños grupos de información
@@ -206,14 +206,14 @@ Párrafos -> Reflexiones
 ¿Cómo puedes, con base en los ejemplos del curso, romperlos en pequeños
 bloques y organizar tu proceso de aprendizaje?
 
-#### Definiendo una meta
+# Definiendo una meta
 
 > ..."Lo que puede ser medido puede ser mejorado"... *Peter Drucker*
 
 - ¿Por qué lo quiero aprender?
 - ¿Dónde lo voy a usar?
 - ¿Cuando quiero estar listo?
-#### Metodo SMART
+# Metodo SMART
 
 | -   | SMART      |
 | --- | ---------- |
@@ -225,7 +225,7 @@ bloques y organizar tu proceso de aprendizaje?
 
 [Método SMART](https://trabajarporelmundo.org/metodo-smart/)
 
-#### Niveles de medicón
+#  Niveles de medicón
 
 - ¿Satisfación con el proceso de aprendizaje?
 - ¿Recuerdas lo aprendido?
@@ -237,16 +237,17 @@ bloques y organizar tu proceso de aprendizaje?
 Utilizando la piramide de niveles de aprendizaje, piensa sobre algo que estudiaste
 y aprendiste recientemente y haz una reflexión sobre tu aprovechamiento en cada nivel:
 
-| - | De 0 a 100 califica la etapa en tu proceso de aprendizaje |
-| :- | - |
-| **Resultado**</br> ¿Cuánto estoy generando de resultado? |  |
-| **Aplicación**</br> ¿Cuánto de lo aprendido puedo aplicar? |  |
-| **Conocimiento**</br> ¿Cuánto puedo recordar de lo aprendido? |  |
-| **Satisfacción**</br> ¿Cuánta satisfacción tengo de proceso de aprendizaje? |  |
-| **Dedicación**</br> ¿Cuánto me dediqué al proceso de aprendizaje? |  |
+| -                                                                           | De 0 a 100 califica la etapa en tu proceso de aprendizaje |
+| :-------------------------------------------------------------------------- | --------------------------------------------------------- |
+| **Resultado**</br> ¿Cuánto estoy generando de resultado?                    |                                                           |
+| **Aplicación**</br> ¿Cuánto de lo aprendido puedo aplicar?                  |                                                           |
+| **Conocimiento**</br> ¿Cuánto puedo recordar de lo aprendido?               |                                                           |
+| **Satisfacción**</br> ¿Cuánta satisfacción tengo de proceso de aprendizaje? |                                                           |
+| **Dedicación**</br> ¿Cuánto me dediqué al proceso de aprendizaje?           |                                                           |
 
 Midiendo la evolución
-#### Rutina de aprendizaje
+
+# Rutina de aprendizaje
 
 - Organiza tu agenda de la semana.
 - Define (y respeta) el tiempo por día.
@@ -259,17 +260,15 @@ Pasos de la procastrinación
 3. Excusas: Ahora estoy muy ocupada.
 4. Negación: No tengo tiempo.
 
-La construcción de hábitos y la estructuración de rutinas es una manera muy 
-eficiente de ganar productividad en el proceso de desarrollo contínuo para
-mantenerse y aprender la forma más eficiente y recurrente.
+La construcción de hábitos y la estructuración de rutinas es una manera muy eficiente de ganar productividad en el proceso de desarrollo contínuo para mantenerse y aprender la forma más eficiente y recurrente.
 
 Para empezar a beneficiarse de estas técnicas, planifica tu rutina de la
 próxima semana considerando:
 
-- METAS CLARAS: ¿cuál es tu meta de aprendizaje? ¿Y cuáles conocimientos y
-actitudes necesitas aprender y/o aplicar para alcanzarlas?.
-- PROCESO DE APRENDIZAJE: ¿Cuál será tu rutina semanal con horarios de
-entrenamiento y de pausa para desarrollar estos conocimientos y actitudes?.
+- METAS CLARAS: ¿cuál es tu meta de aprendizaje? ¿Y cuáles conocimientos y actitudes necesitas aprender y/o aplicar para alcanzarlas?.
+
+- PROCESO DE APRENDIZAJE: ¿Cuál será tu rutina semanal con horarios de entrenamiento y de pausa para desarrollar estos conocimientos y actitudes?.
+- 
 - HÁBITOS: ¿cuál hábito puedes crear para alcanzar tus metas? Cuáles son la
 disposición, rutina y recompensa para alcanzarlas?.
 - PUNTOS DE ATENCIÓN: ¿cuáles cuidados debes de tener para eliminar los

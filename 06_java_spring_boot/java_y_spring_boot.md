@@ -9,7 +9,7 @@ Java y [bases de datos](study_drive/06_java_spring_boot/base_de_datos.md)
   Java y [JDBC](study_drive/06_java_spring_boot/jdbc.md)
 - JPA e Hibernate
   - [Curso](https://app.aluracursos.com/course/persistencia-jpa-hibernate)
-Persistencia con [JPA - Hibernate](study_drive/06_java_spring_boot/jpa_persistencia_hibernate.md)
+Persistencia con [JPA - Hibernate](study_drive/06_java_spring_boot/jpa_persistence_hibernate.md)
   - [Curso](https://app.aluracursos.com/course/java-jpa-consultas-avanzadas-rendimiento-modelos-complejos)
 JPA [consultas avanzadas, rendimiento y modelos complejos](study_drive/06_java_spring_boot/jpa_avanzado.md)
   - Lectura [Rest](https://www.aluracursos.com/blog/rest-concepto-y-fundamentos)

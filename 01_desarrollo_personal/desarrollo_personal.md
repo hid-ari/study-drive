@@ -1,4 +1,5 @@
 # Desarrollo Personal
+#studydrive #desarrollopersonal 
 ## Cursos
 - Curso [enfoque](enfoque.md)
 - Curso [habitos](habitos.md)

@@ -167,7 +167,6 @@ Practica Distribuida: Distribuir los estudios para que la curva de aprendizaje
 se mantenga regular.
 
 ### Memoria a largo plazo
-
 El aprendizaje es el proceso de adquirir información para la memoria de largo plazo. Juntar diferentes bloques de conocimiento y saber como aplicarlo. Divide una habilidad en subhabilidades. Pequeñas partes para aprender.
 
 Chunks = Bloque:
@@ -196,12 +195,12 @@ Párrafos -> Reflexiones
 bloques y organizar tu proceso de aprendizaje?
 
 ### Definiendo una meta
-
 > ..."Lo que puede ser medido puede ser mejorado"... *Peter Drucker*
 
 - ¿Por qué lo quiero aprender?
 - ¿Dónde lo voy a usar?
 - ¿Cuando quiero estar listo?
+
 ### Metodo SMART
 
 | -   | SMART      |
@@ -215,7 +214,6 @@ bloques y organizar tu proceso de aprendizaje?
 [Método SMART](https://trabajarporelmundo.org/metodo-smart/)
 
 ###  Niveles de medicón
-
 - ¿Satisfación con el proceso de aprendizaje?
 - ¿Recuerdas lo aprendido?
 - ¿Puedo aplicar lo que aprendo?
@@ -237,7 +235,6 @@ y aprendiste recientemente y haz una reflexión sobre tu aprovechamiento en cada
 Midiendo la evolución
 
 ### Rutina de aprendizaje
-
 - Organiza tu agenda de la semana.
 - Define (y respeta) el tiempo por día.
 - Busca los mejores horários y lugares.
@@ -268,13 +265,11 @@ próxima semana considerando:
 incluir en esta agenda?
 
 ### Ejercita cuerpo y mente
-
 Hacer actividad física (aunque sea por poco tiempo) auxilia las conexiones entre neuronas del hipocampo, región cerebral asociada al aprendizaje y a la memoria.
 
 Dormir crea nuevos caminosy mejora el modo difuso.
 
 ### Herramientas
-
 - Google Alerts
 - Linkedin:
     - Consume y crea contenido de calidad.
@@ -286,7 +281,6 @@ Dormir crea nuevos caminosy mejora el modo difuso.
 
 [Extra - Curso linkedin](https://app.aluracursos.com/course/linkedin-hacer-perfil-trabaje-por-ti)
 ## Repaso
-
 - Autoconocimiento
 - Estilos y caminos del aprendizaje
 - Lifelong Learning
@@ -297,7 +291,6 @@ Dormir crea nuevos caminosy mejora el modo difuso.
 - Herramientas para aprender mejor
 
 ## Cursos
-
 - Curso [enfoque](enfoque.md)
 - Curso [habitos](habitos.md)
 - Curso [linkedin](linkedin.md)

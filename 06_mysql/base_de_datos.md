@@ -1,7 +1,7 @@
 # Java y Bases de Datos
 ## Cursos
-- Curso [Consultas SQL](consulta)
-
+- Curso [Consultas SQL](consultas_sql.md)
+- Curso [DML manipulacion de datos]
 
 Para desarrollar una aplicación más completa y robusta, es probable que se
 necesite manejar información de clientes y/o productos, que deben estar

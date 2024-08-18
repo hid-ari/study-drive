@@ -10,4 +10,5 @@ Repository with obsidian notes about programming courses. (In development)
 6. [SQL MySQL](06_mysql/base_de_datos.md)
 7. [JBDC | JPA | Spring Boot](study_drive/07_java_spring_boot/jdbc.md)
 
-## Microsoft  Soft
+## Microsoft  Software Development
+1. Career Skills in Software Development

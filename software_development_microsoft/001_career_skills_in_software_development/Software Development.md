@@ -12,4 +12,6 @@ Discover the skills needed for a career in software development. Learn the core 
 [Software Development](02_software_development.md)
 [Tools of the trade](03_tools_of_the_trade.md)
 [Programming Languages](04_programming_languages.md)
-[05_python](05_python.md)
+[Python](05_python.md)
+[Working With Python](06_working_with_python.md)
+

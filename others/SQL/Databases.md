@@ -8,4 +8,4 @@ Las bases de datos son utilizadas en una amplia variedad de campos, desde biblio
 
 Los sistemas de gestión de bases de datos (DBMS) son fundamentales para el almacenamiento ordenado y la rápida recuperación de la información en las bases de datos. Además, existen diferentes clasificaciones de bases de datos, atendiendo a características como su variabilidad, contenido, ámbito de aplicación y aspectos técnicos
 
-[[SQL]]
+[[study_drive/others/SQL/SQL]]

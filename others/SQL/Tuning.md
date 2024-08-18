@@ -1,1 +1,1 @@
-![[Pasted image 20240716162410.png]]![[Pasted image 20240716162415.png]]![[Pasted image 20240716162425.png]]
+![[study_drive/others/SQL/imgs/Pasted image 20240716162410.png]]![[study_drive/others/SQL/imgs/Pasted image 20240716162415.png]]![[study_drive/others/SQL/imgs/Pasted image 20240716162425.png]]

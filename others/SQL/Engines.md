@@ -1,4 +1,4 @@
-![[Pasted image 20240716162654.png]]![[Pasted image 20240716162726.png]]Vamos a hablar inicialmente sobre MyISAM. Es un mecanismo de almacenamiento que no es transaccional. Es decir, no está diseñado para que varios usuarios estén realizando diversas operaciones en las tablas simultáneamente. Entonces si yo tengo una tabla que no recibe muchas transacciones, una buena opción sería trabajar con MyISAM.
+![[study_drive/others/SQL/imgs/Pasted image 20240716162654.png]]![[study_drive/others/SQL/imgs/Pasted image 20240716162726.png]]Vamos a hablar inicialmente sobre MyISAM. Es un mecanismo de almacenamiento que no es transaccional. Es decir, no está diseñado para que varios usuarios estén realizando diversas operaciones en las tablas simultáneamente. Entonces si yo tengo una tabla que no recibe muchas transacciones, una buena opción sería trabajar con MyISAM.
 
  Él únicamente permite que yo realice el bloqueo a nivel tabla. Tengo que bloquear toda la tabla para poder trabajar sobre ella, y esto me genera que sea una lectura más rápida, de hecho esto es de lo más adecuado cuando estamos trabajando con Data Warehouses.
 
@@ -30,7 +30,7 @@ También contamos con myisam_ftdump, que exhibe la información más completa cu
 
  En el próximo video estaremos hablando de InnoDB y también de MEMORY que son otros mecanismo comúnmente utilizados en MySQL. Ya nos vemos
 
-![[Pasted image 20240716162741.png]]
+![[study_drive/others/SQL/imgs/Pasted image 20240716162741.png]]
 Hola alumnos y alumnas. Ahora vamos a hablar un poco sobre otro mecanismo de almacenamiento que sería InnoDB. Es el mecanismo de almacenamiento por defecto que se trabaja en MySQL actualmente. Es transaccional, o sea, él sí está diseñado para que diversos usuarios estén realizando operaciones en las tablas simultáneamente.
 
 Él tiene soporte transaccional completo. Tiene soporte a claves externas o claves foráneas. El cache de buffer es configurado de forma separada, tanto para la base de datos como para el índice. Entonces esto es muy importante. El bloqueo de tabla se realiza a nivel de línea, no como en el caso de MyISAM que tengo que bloquear toda la tabla para poder realizar cualquier alteración en ella.
@@ -49,7 +49,7 @@ En la medida que lo utilicemos, después de un lapso él va a ser descargado al 
 
 No quiere decir que para todos los archivos de log in va a ser 5 MG sino que va a creando de 5 en 5 MG cada archivo de lógica-in. Finalmente tenemos
 
-![[Pasted image 20240716162812.png]]
+![[study_drive/others/SQL/imgs/Pasted image 20240716162812.png]]
 
 MEMORY. MEMORY es un mecanismo de almacenamiento que crea tablas en la memoria RAM, no quedan en disco. Entonces eso quiere decir que siempre que se reinicialice, se va a borrar.
 

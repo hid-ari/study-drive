@@ -1,3 +1,3 @@
 # Index
-[C-Sharp](C-sharp.md)
-FrontEnd Development
+[C-Sharp](study_drive/others/c-sharp.md)
+[FrontEnd Development](front)

@@ -14,6 +14,6 @@ Discover the skills needed for a career in software development. Learn the core 
 [Programming Languages](04_programming_languages.md)
 [Python](05_python.md)
 [Working With Python](06_working_with_python.md)
-[Exploring Different Languages](07_exploring different languages.md)
+[Exploring Different Languages](07_exploring_different_languages.md)
 [Your First Programming Job](08_your_first_programming_job.md)
 

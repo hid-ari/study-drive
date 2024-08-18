@@ -9,7 +9,7 @@
 ## Lectura
 - Lectura [JDBC](https://www.aluracursos.com/blog/conociendo-el-jdbc)
 - Lectura [Maven](https://www.aluracursos.com/blog/que-es-maven)
-- 
+- Lectura [Rest](https://www.aluracursos.com/blog/rest-concepto-y-fundamentos)
 
 Para desarrollar una aplicación más completa y robusta, es probable que se
 necesite manejar información de clientes y/o productos, que deben estar

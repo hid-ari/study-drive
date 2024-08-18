@@ -1,7 +1,7 @@
 # Data Manipulation Language
 
 Se repasa lo visto en el primer curso sobre
-[bases de datos](base_de_datos.md)
+[bases de datos](study_drive/06_java_spring_boot/base_de_datos.md)
 
 ### Tipos de datos
 

@@ -1,6 +1,6 @@
 # Java y Bases de Datos
 ## Cursos
-- Curso [Business Model Canvas](business_model_canvas.md)
+- Curso [](business_model_canvas.md)
 - Curso [Lean Startup](lean_startup.md)
 - Curso [Pitch Entrevistas](pitch_entrevistas.md)
 

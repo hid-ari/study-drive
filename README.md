@@ -8,7 +8,7 @@ Alura G5 ONE
 	- [Linkedin](01_desarrollo_personal/linkedin.md)
 2. [Git y Github](02_Git_y_github/Git y Github.md)
 3. [Business Agility](03_business_agility/Business Agility.md)
-4. - [Java OO](https://app.aluracursos.com/course/java-primeros-pasos)
+4. Java OO
 	- [primeros pasos](primeros_pasos.md)
 	- [orientación a objetos](orientacion_obj.md)
 	- [Herencia e Interfaces](herencia_interfaces.md)

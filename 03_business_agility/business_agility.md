@@ -1,67 +1,42 @@
-[Formación](https://app.aluracursos.com/formacion-business-agility-grupo5-one)
 ## Fundamentos de Agilidad
-
-[Curso](https://app.aluracursos.com/course/fundamentos-agilidad-primeros-pasos-transformacion-agil)
 
 - **Waterfall vs. Agile**
 
   Es necesario que los requisitos/documentación sean aprobados y acordados con
-  el cliente, así como por el responsable del proyecto. Una vez aprobado este
-  documento, el flujo para lograr el objetivo no cambiará, tampoco su alcance.
-
-  En Waterfall, cuando dividimos el modelo en etapas, la primera está orientada
-  para disparar la segunda, y así sucesivamente. Con esto, se excluye la posibilidad
-  de hacer algún cambio.
+  el cliente, así como por el responsable del proyecto. Una vez aprobado este documento, el flujo para lograr el objetivo no cambiará, tampoco su alcance. En Waterfall, cuando dividimos el modelo en etapas, la primera está orientada para disparar la segunda, y así sucesivamente. Con esto, se excluye la posibilidad de hacer algún cambio.
 
 - **Priorización** ¿qué es la priorización y cómo podemos definirla?
-
   La priorización es el proceso de determinar la tarea con mayor importancia y urgencia.
   - *Importancia*: debe ser claro cuál es el objetivo que esa tarea ayudará a alcanzar.
   - *Urgencia*: la actividad tiene un plazo corto de entrega.
   
-  El criterio para determinar la priorización de actividades depende del contexto
-  de la empresa, del momento, del tipo de proyecto y del cliente. Sin embargo,
-  independientemente de esto, generalmente debemos priorizar aquello que genera
-  un mayor retorno financiero.  
+  El criterio para determinar la priorización de actividades depende del contexto de la empresa, del momento, del tipo de proyecto y del cliente. Sin embargo, independientemente de esto, generalmente debemos priorizar aquello que genera un mayor retorno financiero.  
 
 - **Flujo de ejecución**
 
-  1. El proyecto y el objetivo final deben ser establecidos para que el problema
-  sea resuelto de manera rápida y eficaz.
-  2. Dividir en pequeñas metas. Determina la tarea que debe ser resuelta con mayor
-  prioridad, conservando un flujo enfocado en lo que más importa.
+  1. El proyecto y el objetivo final deben ser establecidos para que el problema sea resuelto de manera rápida y eficaz.
+  2. Dividir en pequeñas metas. Determina la tarea que debe ser resuelta con mayor prioridad, conservando un flujo enfocado en lo que más importa.
 
 - **Retroalimentación**
 
   Es la tercera diferencia más relevante entre Agile y Waterfall.  
-  Son las evaluaciones y críticas sobre los resultados obtenidos, sean positivas
-  o negativas, colaborando para el crecimiento de la empresa.
+  Son las evaluaciones y críticas sobre los resultados obtenidos, sean positivas o negativas, colaborando para el crecimiento de la empresa.
 
-  Primero, es necesario priorizar las tareas. Después de priorizar, se debe definir
-  el plan/flujo de trabajo, para lograr dividirlo en etapas.  
-  Cuando se completa una etapa, es importante obtener retroalimentación de tu cliente.
-  Con esa entrada (retroalimentación) es posible hacer cambios en el flujo hasta
-  eliminar tareas que ya no sean necesarias.
+  Primero, es necesario priorizar las tareas. Después de priorizar, se debe definir el plan/flujo de trabajo, para lograr dividirlo en etapas. Cuando se completa una etapa, es importante obtener retroalimentación de tu cliente. 
+  Con esa entrada (retroalimentación) es posible hacer cambios en el flujo hasta eliminar tareas que ya no sean necesarias.
 
 - **¿Que es ser ágil?**
 
-  Ser ágil significa entregar valor rápidamente, tener un abordaje enfocado en
-  lo que genera más valor; es decir, cuando algún cliente tiene un problema,
-  debemos ofrecerle entregas parciales de acuerdo con sus necesidades. Estos
-  ciclos rápidos de entrega hacen que la retroalimentación sea constante para
-  mejorar el servicio/producto, alcanzando mejores resultados al final del proceso.
+  Ser ágil significa entregar valor rápidamente, tener un abordaje enfocado en lo que genera más valor; es decir, cuando algún cliente tiene un problema, debemos ofrecerle entregas parciales de acuerdo con sus necesidades. Estos ciclos rápidos de entrega hacen que la retroalimentación sea constante para mejorar el servicio/producto, alcanzando mejores resultados al final del proceso.
 
 - **[Manfiesto](https://agilemanifesto.org/) Agile**
 
-  Fue escrito en 2001. Su objetivo era descubrir cuáles eran las semejanzas entre
-  los diversos procesos de desarrollo de software basado en la experiencia de quienes
-  lo escribieron, y qué logra que los clientes queden satisfechos.
+  Fue escrito en 2001. Su objetivo era descubrir cuáles eran las semejanzas entre los diversos procesos de desarrollo de software basado en la experiencia de quienes lo escribieron, y qué logra que los clientes queden satisfechos.
+  
   A partir de ahí llegaron a 4 valores:
 
   1. **Individuals and intreactions OVER Processes and tools**:  
-  Las interacciones entre individuos son más importantes que los procesos y
-  herramientas; es decir, la manera como un equipo trabaja impacta directamente el
-  desarrollo de lo que será producido.
+  Las interacciones entre individuos son más importantes que los procesos y herramientas; es decir, la manera como un equipo trabaja impacta directamente el desarrollo de lo que será producido.
   2. **Working software OVER Documentation**:  
   Tener software funcionando es más importante que documentación detallada.
   3. **Customer collaboration OVER Contract**:  

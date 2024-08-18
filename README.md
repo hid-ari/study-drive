@@ -7,4 +7,5 @@ Alura G5 ONE
 3. [Business Agility](03_business_agility/business_agility.md)
 4. [Java](04_java_oo/primeros_pasos.md)
 5. [Emprendimiento](05_emprendimiento/emprendimiento.md)
-6. [Base de Datos (JBDC | JPA | Spring Boot)]
+6. [Base de Datos (JBDC | JPA | Spring Boot)](06_java_spring_boot/base_de_datos.md)
+7. 

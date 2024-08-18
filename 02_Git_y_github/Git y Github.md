@@ -6,26 +6,22 @@ Video para [iniacirse](https://www.youtube.com/watch?v=-LmFK6skG7s) en git.
 
 Curso [Git y Github](https://app.aluracursos.com/course/git-github-control-version).
 ### Que es git
-
 Control de versiones, trabajo en equipo. En servidor o local.
 
-Sistemas de control de versiones
+Sistemas de control de versiones:
 
 - CVS
 - SVN
 - Mercurial
 - Git
 
-Un sistema de control de versiones registra cada cambio realizado en un historial
-que se puede revisar y restaurar, en cualquier punto de este.
+Un sistema de control de versiones registra cada cambio realizado en un historial  que se puede revisar y restaurar, en cualquier punto de este.
 
-Permite organizar el trabajo en equipo,
-manteniendo los cambios de los archivos en un servidor dedicado.
+Permite organizar el trabajo en equipo, manteniendo los cambios de los archivos en un servidor dedicado.
 
 Apuntes [Git](https://gitea.kickto.net/devfzn/basicos_git/wiki/).
 
-Iniciando un
-[repositorio](https://www.aluracursos.com/blog/iniciando-repositorio-con-git)
+Iniciando un [repositorio](https://www.aluracursos.com/blog/iniciando-repositorio-con-git)
 
 - `gitinit` inicia repositorio.
 - `git status` estado del repositorio.
@@ -62,8 +58,6 @@ detalle en este
 [Git log](https://gitea.kickto.net/devfzn/basicos_git/wiki/Comandos-Basicos-Git#user-content-log)
 
 - `git log`
-
-    <details><summary markdown="span">historial</summary>
 
     ```sh
     commit 7eb3ca2b356ab72fcb6d3cdd378f6e4ea86f7fcc (HEAD -> master, origin/master)
@@ -120,17 +114,12 @@ detalle en este
         propiedad 'float' y 'clear'.
     ```
 
-    </details><br/>
-
 - git-[log](https://devhints.io/git-log) config.
-- archivo `.gitignore`: los archivos/directorios especificados en este archivo
-son excluidos del control de veriones.
+- archivo `.gitignore`: los archivos/directorios especificados en este archivo son excluidos del control de veriones.
 - `git remote`, repositorios remotos
     - `git remote add <origin>`: Configura repositorio remoto como origen.
     - `git remote remove <origin>`: Elimina el vinculo con el repositorio remoto.
     - `git remote -v`: Muestra El/los repositorios remotos.
-
-<br/>
 
 - `git clone`, clonar repos
     - `git clone <repo>`: Clona repositorio remoto en el directorio actual.
@@ -138,13 +127,9 @@ son excluidos del control de veriones.
     - `git clone <repo>` .: Clona repositorio remoto en el directorio actual sin
     crear otro subdirectorio para el proyecto.
 
-<br/>
-
 - `git push`: Envia los cambios al repostorio remoto.
     - `git push <origin> <master>`: Envia los cambios de la rama `master`
     repostorio remoto `origin`.
-
-<br/>
 
 - `git fetch <origin>`: Actualiza la información local respecto a la remota,
 informa los cambios, pero no atualiza el working tree.
@@ -167,11 +152,7 @@ informa los cambios, pero no atualiza el working tree.
     - `git branch <rama>`: crea la ramas <rama>.
 - `git checkout <rama>`: cambia a la rama <rama>.
 - `git checkout -b <rama>`: crea y cambia a la rama <rama>.
-
-> Las branches ("ramas") se utilizan para desarrollar funcionalidades aisladas
-entre sí. La branch master es la branch "predeterminada" cuando creas un
-repositorio.
-
+> Las branches ("ramas") se utilizan para desarrollar funcionalidades aisladas entre sí. La branch master es la branch "predeterminada" cuando creas un repositorio.
 > Nota: [Licencias](https://www.aluracursos.com/blog/open-source-una-breve-introduccion)
 de software, FreeSofware y Open Source.
 

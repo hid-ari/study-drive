@@ -5,15 +5,12 @@
 - Curso [Stored Procedures](procedures.md)
 - Curso [DBA](dba_seguridad_optimizacion.md)
 - Curso [Proyecto MySQL](proyecto_mysql.md)
-## Lectura
+## Lectura y videos
 - Lectura [SELECT, INSERT, UPDATE y DELETE](https://www.aluracursos.com/blog/select-insert-update-delete-sql)
 - Lectura [null, blank](https://www.aluracursos.com/blog/en-sql-null-es-null-vacio-es-vacio)
-- Videos [SQL y NOSQL](https://www.youtube.com/watch?v=cLLKVd5CNLc&t=630s) y
-[Base de datos MySQL](https://www.youtube.com/watch?v=8J0AoPZMVxA)
+- Videos [SQL y NOSQL](https://www.youtube.com/watch?v=cLLKVd5CNLc&t=630s) y [Base de datos MySQL](https://www.youtube.com/watch?v=8J0AoPZMVxA)
 
-Para desarrollar una aplicación más completa y robusta, es probable que se
-necesite manejar información de clientes y/o productos, que deben estar
-almacenadas de forma segura. Por lo tanto, es importante aprender a trabajar con una base de datos.
+Para desarrollar una aplicación más completa y robusta, es probable que se necesite manejar información de clientes y/o productos, que deben estar almacenadas de forma segura. Por lo tanto, es importante aprender a trabajar con una base de datos.
 
 Este módulo desarrolla un mayor conocimiento acerca de bases de datos relacionales **MySQL**, la API de Java para el acceso a la base de datos llamada **JDBC**, y también acerca de la **JPA**, que facilita el desarrollo de la conexión a la base de datos.
 

@@ -1,3 +1,4 @@
+#Different Languages
 ![[Pasted image 20240808115402.png]]
 Java, Python, and C++ all inherit ideas from C.
 

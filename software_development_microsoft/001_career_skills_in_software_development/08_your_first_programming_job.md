@@ -1,3 +1,5 @@
+# Apply to jobs in tech
+
 Before you start applying to jobs in tech, you'll want to familiarize yourself with the process. There are multiple steps involved, which are often referred to as the hiring funnel. 
 
 The hiring funnel is typically composed of the following, the resume review, the recruiter phone screen, the tech phone screen, and finally the on-site. 

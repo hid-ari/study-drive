@@ -266,15 +266,10 @@ Para empezar a beneficiarse de estas técnicas, planifica tu rutina de la
 próxima semana considerando:
 
 - METAS CLARAS: ¿cuál es tu meta de aprendizaje? ¿Y cuáles conocimientos y actitudes necesitas aprender y/o aplicar para alcanzarlas?.
-
 - PROCESO DE APRENDIZAJE: ¿Cuál será tu rutina semanal con horarios de entrenamiento y de pausa para desarrollar estos conocimientos y actitudes?.
-- 
-- HÁBITOS: ¿cuál hábito puedes crear para alcanzar tus metas? Cuáles son la
-disposición, rutina y recompensa para alcanzarlas?.
-- PUNTOS DE ATENCIÓN: ¿cuáles cuidados debes de tener para eliminar los
-puntos de atención para este plan de acción?.
-- EJERCITA ADEMÁS DEL CEREBRO: ¿cuáles actividades físicas mantendrás y/o
-incluirás en tu rutina para fomentar este desarrollo?.
+- HÁBITOS: ¿cuál hábito puedes crear para alcanzar tus metas? Cuáles son la disposición, rutina y recompensa para alcanzarlas?.
+- PUNTOS DE ATENCIÓN: ¿cuáles cuidados debes de tener para eliminar los puntos de atención para este plan de acción?.
+- EJERCITA ADEMÁS DEL CEREBRO: ¿cuáles actividades físicas mantendrás y/o incluirás en tu rutina para fomentar este desarrollo?.
 
 ¿Cuántas horas vas a dedicar en la semana?
 
@@ -282,13 +277,14 @@ incluirás en tu rutina para fomentar este desarrollo?.
 
 ¿Qué formatos y estilos, considerando tu perfil personal, vas a elegir para
 incluir en esta agenda?
-#### Ejercita cuerpo y mente
 
-Hacer actividad física (aunque sea por poco tiempo) auxilia las conexiones entre
-neuronas del hipocampo, región cerebral asociada al aprendizaje y a la memoria.
+# Ejercita cuerpo y mente
+
+Hacer actividad física (aunque sea por poco tiempo) auxilia las conexiones entre neuronas del hipocampo, región cerebral asociada al aprendizaje y a la memoria.
 
 Dormir crea nuevos caminosy mejora el modo difuso.
-#### Herramientas
+
+# Herramientas
 
 - Google Alerts
 - Linkedin:
@@ -300,7 +296,7 @@ Dormir crea nuevos caminosy mejora el modo difuso.
 - Artículos
 
 [Extra - Curso linkedin](https://app.aluracursos.com/course/linkedin-hacer-perfil-trabaje-por-ti)
-#### Repaso
+# Repaso
 
 - Autoconocimiento
 - Estilos y caminos del aprendizaje
@@ -310,7 +306,8 @@ Dormir crea nuevos caminosy mejora el modo difuso.
 - Definir y acompañar metas de aprendizaje
 - Rutinas de aprendizaje productivas
 - Herramientas para aprender mejor
-### Cursos
+
+# Cursos
 
 - Curso [enfoque](enfoque.md)
 - Curso [habitos](habitos.md)

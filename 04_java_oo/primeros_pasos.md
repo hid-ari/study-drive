@@ -8,6 +8,47 @@
 - Curso [Bibliotecas Principales](04_java_oo/bibliotecas_principales.md)
 - Curso [Java.util](04_java_oo/java_util.md)
 ## ¿Que es Java?
+**Java** es un lenguaje de programación que se actualiza periódicamente por **Oracle**, la empresa responsable de su desarrollo. Cada nueva versión de Java trae consigo nuevas características, mejoras de rendimiento, correcciones de errores y actualizaciones de seguridad. Estas versiones se numeran, siguiendo un patrón específico.
+
+Cuando se lanza una nueva versión, puede incluir nuevas bibliotecas, clases, métodos y otros recursos que los desarrolladores pueden utilizar para crear aplicaciones Java más eficientes y con menos errores.
+
+Aquí hay algunos ejemplos de algunas de las principales versiones de Java y sus características:
+
+- [Java **8**](https://www.java.com/es/download/help/java8_es.html#:~:text=Una%20de%20las%20funciones%20destacables,el%20lenguaje%20de%20programaci%C3%B3n%20Java.&text=Esta%20nueva%20API%20permitir%C3%A1%20a,natural%20y%20f%C3%A1cil%20de%20comprender)  
+  Introdujo la programación funcional, incluyendo la **interfaz** `java.util.function`,
+  que permite el uso de expresiones lambda. Además, se agregó una nueva API de
+  fecha y hora que proporciona una forma más simple y segura de manejar fechas y horas.
+  
+- Java **11**  
+  Introdujo el sistema de módulos de Java, que ayuda a simplificar la creación y
+  mantenimiento de aplicaciones complejas. Además, se agregó la **clase** `HttpClient`,
+  que admite comunicaciones HTTP/2.
+
+- Java **15**  
+  Agregó características como la palabra clave `sealed`, que permite que las
+  clases restrinjan qué otras clases pueden extenderlas o implementarlas,
+  y también agregó mejoras a la API Records, que ayuda a simplificar la creación
+  de clases de datos inmutables.
+
+- [Java **17**](https://www.oracle.com/cl/news/announcement/oracle-releases-java-17-2021-09-14/)  
+  Introduce nuevas características y mejoras, como patrones de coincidencia que mejoran la sintaxis al trabajar con estructuras de datos complejas. Además, se mejoran el rendimiento del recolector de basura para reducir la latencia en las aplicaciones Java. 
+   
+  También se agregan funcionalidades a los registros, que
+  son clases inmutables y compactas utilizadas para representar datos, incluyendo la capacidad de definir registros locales dentro de métodos. 
+   
+  Otra adición importante son las nuevas clases y métodos en el paquete
+  `java.util` para trabajar con estructuras de datos persistentes, lo que permite realizar cambios en los datos sin modificar las estructuras originales. 
+  
+  Por último, se agrega soporte para **CGroups** en la API de Java, lo que permite una mejor administración de recursos en entornos de contenedores.
+
+Al actualizar a una nueva versión de Java, es importante tener en cuenta la
+compatibilidad con versiones anteriores. A veces, se eliminan o modifican
+características o funcionalidades en una nueva versión, lo que puede afectar el código existente. Por esta razón, es importante probar su código al actualizar a una nueva versión de Java.
+
+Además, es posible que coexistan diferentes versiones de Java en un sistema, lo que permite que las aplicaciones se ejecuten en versiones específicas de la JVM (Java Virtual Machine) para garantizar la compatibilidad con el código existente.
+
+Otras características de las
+[diferentes versiones de Java](https://www.aluracursos.com/blog/caracteristica-destacables-java8-delante).
 Algunas [estadisticas](https://www.jetbrains.com/es-es/lp/devecosystem-2022/java/)
 de jetbrains (2022).
 
@@ -263,62 +304,6 @@ OpenJDK Runtime Environment (build 20.0.1+9)
 OpenJDK 64-Bit Server VM (build 20.0.1+9, mixed mode, sharing)
 ```
 
-**Java** es un lenguaje de programación que se actualiza periódicamente por **Oracle**,
-la empresa responsable de su desarrollo. Cada nueva versión de Java trae consigo
-nuevas características, mejoras de rendimiento, correcciones de errores y
-actualizaciones de seguridad. Estas versiones se numeran, siguiendo un patrón
-específico.
-
-Cuando se lanza una nueva versión, puede incluir nuevas bibliotecas, clases,
-métodos y otros recursos que los desarrolladores pueden utilizar para crear
-aplicaciones Java más eficientes y con menos errores.
-
-Aquí hay algunos ejemplos de algunas de las principales versiones de Java y sus
-características:
-
-- [Java **8**](https://www.java.com/es/download/help/java8_es.html#:~:text=Una%20de%20las%20funciones%20destacables,el%20lenguaje%20de%20programaci%C3%B3n%20Java.&text=Esta%20nueva%20API%20permitir%C3%A1%20a,natural%20y%20f%C3%A1cil%20de%20comprender)  
-  Introdujo la programación funcional, incluyendo la **interfaz** `java.util.function`,
-  que permite el uso de expresiones lambda. Además, se agregó una nueva API de
-  fecha y hora que proporciona una forma más simple y segura de manejar fechas y horas.
-
-- Java **11**  
-  Introdujo el sistema de módulos de Java, que ayuda a simplificar la creación y
-  mantenimiento de aplicaciones complejas. Además, se agregó la **clase** `HttpClient`,
-  que admite comunicaciones HTTP/2.
-
-- Java **15**  
-  Agregó características como la palabra clave `sealed`, que permite que las
-  clases restrinjan qué otras clases pueden extenderlas o implementarlas,
-  y también agregó mejoras a la API Records, que ayuda a simplificar la creación
-  de clases de datos inmutables.
-
-- [Java **17**](https://www.oracle.com/cl/news/announcement/oracle-releases-java-17-2021-09-14/)  
-  Introduce nuevas características y mejoras, como patrones de coincidencia que
-  mejoran la sintaxis al trabajar con estructuras de datos complejas. Además,
-  se mejoran el rendimiento del recolector de basura para reducir la latencia en
-  las aplicaciones Java.  
-  También se agregan funcionalidades a los registros, que
-  son clases inmutables y compactas utilizadas para representar datos, incluyendo
-  la capacidad de definir registros locales dentro de métodos.  
-  Otra adición importante son las nuevas clases y métodos en el paquete
-  `java.util` para trabajar con estructuras de datos persistentes, lo que permite
-  realizar cambios en los datos sin modificar las estructuras originales.  
-  Por último, se agrega soporte para **CGroups** en la API de Java, lo que permite
-  una mejor administración de recursos en entornos de contenedores.
-
-Al actualizar a una nueva versión de Java, es importante tener en cuenta la
-compatibilidad con versiones anteriores. A veces, se eliminan o modifican
-características o funcionalidades en una nueva versión, lo que puede afectar el
-código existente. Por esta razón, es importante probar su código al actualizar
-a una nueva versión de Java.
-
-Además, es posible que coexistan diferentes versiones de Java en un sistema,
-lo que permite que las aplicaciones se ejecuten en versiones específicas de la JVM
-(Java Virtual Machine) para garantizar la compatibilidad con el código existente.
-
-Otras características de las
-[diferentes versiones de Java](https://www.aluracursos.com/blog/caracteristica-destacables-java8-delante).
-
 ## IDE
 
 ### Eclipse
@@ -396,16 +381,12 @@ public class TipoVariable {
 }
 ```
 
-Como se ve en los videos, cuando intentamos poner un valor entero en una variable
-de tipo double, Java no muestra un error. Sin embargo, cuando intentamos poner
-un doble en una variable del tipo entero, tenemos un error de compilación.
+Como se ve en los videos, cuando intentamos poner un valor entero en una variable de tipo double, Java no muestra un error. Sin embargo, cuando intentamos poner un doble en una variable del tipo entero, tenemos un error de compilación.
 
-Esta propiedad se produce porque Java convierte implícitamente de un tipo más
-pequeño a tipos "más grandes". De entero a double, por ejemplo.
+Esta propiedad se produce porque Java convierte implícitamente de un tipo más pequeño a tipos "más grandes". De entero a double, por ejemplo.
 
 Lo contrario no es cierto porque hay pérdida de datos cuando se realiza la
-conversión. Resultando en un " type mismatch" que muestra que esta instrucción
-es de tipos incompatibles.
+conversión. Resultando en un " type mismatch" que muestra que esta instrucción es de tipos incompatibles.
 
 Para realizar una conversión donde puede haber pérdida de información, es
 necesario hacer un type casting. Vea las instrucciones a continuación.

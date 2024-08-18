@@ -6,7 +6,7 @@ Alura G5 ONE
 	- [Enfoque](01_desarrollo_personal/enfoque.md)
 	- [Habitos](01_desarrollo_personal/habitos.md)
 	- [Linkedin](01_desarrollo_personal/linkedin.md)
-2. [Git y Github](02_Git_y_github/Git y Github.md)
+2. [Git y Github](02_Git_y_github/git_github.md)
 3. [Business Agility](03_business_agility/Business Agility.md)
 4. Java OO
 	- [primeros pasos](primeros_pasos.md)

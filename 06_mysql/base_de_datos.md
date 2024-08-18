@@ -4,7 +4,9 @@
 - Curso [DML: Manipulación de datos](dml.md)
 - Curso [Stored Procedures](procedures.md)
 - Curso [DBA](dba_seguridad_optimizacion.md)
-- Curso [Pri=]
+- Curso [Proyecto MySQL](proyecto_mysql.md)
+## Lectura
+
 
 Para desarrollar una aplicación más completa y robusta, es probable que se
 necesite manejar información de clientes y/o productos, que deben estar

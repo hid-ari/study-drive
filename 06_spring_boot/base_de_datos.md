@@ -13,10 +13,7 @@ La ***ANSI*** divide estos comandos en 3 grupos mayores:
 
 - **DDL** Data Definition Language: se encarga de manipular todas las estructuras de las bases de datos en sí. Por ejemplo, el comando create para crear una base de datos o una tabla, etc.
 - **DML** Data Manipulation Lenguaje: lenguaje de manipulación de los datos. Select, para seleccionar unos datos, insert para insertar datos a las tablas, etc.
-- **DCL** Data Control Language: se encarga de la administración en sí de toda la
-estructura de la base de datos. Ejemplo, la administración de la base de datos, la
-administración de los accesos a usuarios de los logs, es toda la parte de políticas
-de crecimiento de la base de datos, etc.
+- **DCL** Data Control Language: se encarga de la administración en sí de toda la estructura de la base de datos. Ejemplo, la administración de la base de datos, la administración de los accesos a usuarios de los logs, es toda la parte de políticas de crecimiento de la base de datos, etc.
 
 #### Principles Ventajas
 
@@ -36,10 +33,7 @@ de crecimiento de la base de datos, etc.
 
 ### Historía
 
-Creada por *David Axmark*, *Allan Larsson*, *Michael Widenius* como **software libre**,
-desarrollaron su propia API de consultas y base de datos utilzando C++.
-El 2008 Sun Microsystems compró MySQL. El 2009 Oracle compró Sun Microsystems
-(JAVA y MySQL).
+Creada por *David Axmark*, *Allan Larsson*, *Michael Widenius* como **software libre**, desarrollaron su propia API de consultas y base de datos utilzando C++. El 2008 Sun Microsystems compró MySQL. El 2009 Oracle compró Sun Microsystems (JAVA y MySQL).
 
 ### Características
 
@@ -152,8 +146,7 @@ PUT ...
 
 Disparador
 
-- Avisos automáticos cuando hay algún tipo de cambio en la base de datos o
-en la tabla
+- Avisos automáticos cuando hay algún tipo de cambio en la base de datos o en la tabla
 - Ejecuta una función o procedimiento cuando se cumple la condición del ***trigger***
 
 ### Esquema global de una DB
@@ -231,9 +224,9 @@ DROP SCHEMA jugos;
 
 - **SIGNED** o **UNSIGNED**: con o sin signo
 - **ZEROFILL**: llena los espacios con ceros, ej. `INT(5)` al almacenar `54`, el
-campo queda `00054`
+	campo queda `00054`
 - **AUTO_INCREMENT**: incremento secuencial, ej, `1`, `2`, `3`, `4`,...; `2`,
-`4`,`8`,...
+	`4`,`8`,...
 - **OUT OF RANGE**: Error cuando los valores salen de los límites
 
 #### Fecha y hora

@@ -49,6 +49,7 @@ Además, es posible que coexistan diferentes versiones de Java en un sistema, lo
 
 Otras características de las
 [diferentes versiones de Java](https://www.aluracursos.com/blog/caracteristica-destacables-java8-delante).
+
 Algunas [estadisticas](https://www.jetbrains.com/es-es/lp/devecosystem-2022/java/)
 de jetbrains (2022).
 

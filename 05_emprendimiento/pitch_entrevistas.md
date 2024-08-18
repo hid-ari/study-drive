@@ -136,9 +136,10 @@ Marca
 ### Escribiendo el Pitch
 
 Con la base del BMY, ya se puede comenzar a redactar el Pitch, se tiene su base, ya solo queda eliminar las preguntas y mejorar la redacción de lo que se tiene. 
+
 Usar palabras con naturalidad.
 
-ejm
+Ejemplo
 
 ```txt
                               Beatriz
@@ -252,7 +253,6 @@ desarrollarse más y más.
 cronológicamente.
 
 ----
-
 ### Precauciones
 
 - La preparación es clave
@@ -289,5 +289,4 @@ y dedicarse a la presentación, evitar gesticular en exceso con las manos y
 asegúrarse de no dar la espalda a nadie.
 
 Si el Pitch es en video, prestar atención al escenario y la ropa a utilizar,
-seguir el guión de **BMY** y grabar el video para poder usarlo en varios procesos
-de selección.
+seguir el guión de **BMY** y grabar el video para poder usarlo en varios procesos de selección.

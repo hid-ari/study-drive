@@ -2,24 +2,17 @@
 
 Para desarrollar una aplicación más completa y robusta, es probable que se
 necesite manejar información de clientes y/o productos, que deben estar
-almacenadas de forma segura. Por lo tanto, es importante aprender a trabajar
-con una base de datos.
+almacenadas de forma segura. Por lo tanto, es importante aprender a trabajar con una base de datos.
 
-Este módulo desarrolla un mayor conocimiento acerca de bases de datos relacionales
-**MySQL**, la API de Java para el acceso a la base de datos llamada **JDBC**, y
-también acerca de la **JPA**, que facilita el desarrollo de la conexión a la base
-de datos.
+Este módulo desarrolla un mayor conocimiento acerca de bases de datos relacionales **MySQL**, la API de Java para el acceso a la base de datos llamada **JDBC**, y también acerca de la **JPA**, que facilita el desarrollo de la conexión a la base de datos.
 
-El lenguaje **SQL**,funciona siguiendo **CRUD**, que es **C**reate **R**ead
-**U**pdate **D**elete.
+El lenguaje **SQL**,funciona siguiendo **CRUD**, que es **C**reate **R**ead **U**pdate
+**D**elete.
 
 La ***ANSI*** divide estos comandos en 3 grupos mayores:
 
-- **DDL** Data Definition Language: se encarga de manipular todas las estructuras
-de las bases de datos en sí. Por ejemplo, el comando create para crear una base
-de datos o una tabla, etc.
-- **DML** Data Manipulation Lenguaje: lenguaje de manipulación de los datos. Select,
-para seleccionar unos datos, insert para insertar datos a las tablas, etc.
+- **DDL** Data Definition Language: se encarga de manipular todas las estructuras de las bases de datos en sí. Por ejemplo, el comando create para crear una base de datos o una tabla, etc.
+- **DML** Data Manipulation Lenguaje: lenguaje de manipulación de los datos. Select, para seleccionar unos datos, insert para insertar datos a las tablas, etc.
 - **DCL** Data Control Language: se encarga de la administración en sí de toda la
 estructura de la base de datos. Ejemplo, la administración de la base de datos, la
 administración de los accesos a usuarios de los logs, es toda la parte de políticas

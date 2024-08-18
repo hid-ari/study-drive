@@ -6,4 +6,4 @@ Alura G5 ONE
 	- [Enfoque](01_desarrollo_personal/enfoque.md)
 	- [Habitos](01_desarrollo_personal/habitos.md)
 	- [Linkedin](01_desarrollo_personal/linkedin.md)
-2. Git y Github
+2. [Git y G]

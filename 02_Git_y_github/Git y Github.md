@@ -1,11 +1,11 @@
+# Git y Github
 ¿Que son **Git** y **Github**?
 [link](https://www.aluracursos.com/blog/git-y-github-que-son-y-primeros-pasos).
-
 Video para [iniacirse](https://www.youtube.com/watch?v=-LmFK6skG7s) en git.
 ## Controla y comparte tu código
 
 Curso [Git y Github](https://app.aluracursos.com/course/git-github-control-version).
-### Que es git
+## Que es git
 Control de versiones, trabajo en equipo. En servidor o local.
 
 Sistemas de control de versiones:
@@ -136,7 +136,7 @@ informa los cambios, pero no atualiza el working tree.
 - `git push <origin> <master>`: Actualiza la copia local según los datos del servidor.
 - `git pull <origin> <master>`: Actualiza la copia remota según los datos locales.
 
-#### Servicios de repositorios online
+## Servicios de repositorios online
 
 - [GitLab](https://gitlab.com), Disponible online y self-host.
 - [Gitea](https://gitea.io), Solo Self-host.
@@ -152,37 +152,30 @@ informa los cambios, pero no atualiza el working tree.
     - `git branch <rama>`: crea la ramas `<rama>`.
     - git checkout `<rama>`: cambia a la rama `<rama>`.
     - git checkout -b `<rama>`: crea y cambia a la rama `<rama>`.
+    - 
 Las branches ("ramas") se utilizan para desarrollar funcionalidades aisladas entre sí. La branch master es la branch "predeterminada" cuando creas un repositorio.
 > Nota: [Licencias](https://www.aluracursos.com/blog/open-source-una-breve-introduccion)
 de software, FreeSofware y Open Source.
 
-- `git merge <rama>`: Fusiona rama actual con `rama`. ej.
-`git checkout master; git merge rama`.
-- `git rebase <rama>`: Sobreesbribe la rama actual sobre `rama`. ej.
-`git checkout master; git rebase rama`.
+- `git merge <rama>`: Fusiona rama actual con `rama`. ej. `git checkout master; git merge rama`.
+- `git rebase <rama>`: Sobreesbribe la rama actual sobre `rama`. ej. `git checkout master; git rebase rama`.
 - Editar manualmente cuando falla el `merge`. Git marca la zona del conflicto.
 
 > Siempre actualizar repositorio local antes de hacer push.
 
 - `git restore <archivo>`: restaurar el archivo al ultimo estado guardado.
-- `git restore --staged <archivo>`: saca el archivo de los cambios a incluir en
-el próximo commit (staging area).
+- `git restore --staged <archivo>`: saca el archivo de los cambios a incluir en el próximo commit (staging area).
 - `git reverse <commit-id>`: crea un nuevo commit que deshace el anterior.
 - `git stash`: Guarda el trabajo en progreso, no crea commit.
 - `git stash list`: Lista los trabajos guardados.
-- `git stash apply <n>`: Aplica los cambios del trabajo guardado nro. `n`
-(n queda en la lista de stach).
-- `git stash pop`: Aplica los cambios del último trabajo guardado, y lo elimina
-de la lista.
+- `git stash apply <n>`: Aplica los cambios del trabajo guardado nro. `n` (n queda en la lista de stach).
+- `git stash pop`: Aplica los cambios del último trabajo guardado, y lo elimina de la lista.
 - `git checkout <commit_id>`: Revisar commits anteriores.
-- `git diff`: Muestra las modificaciones que no han sido agregadas para el
-proximo commit (staging area).
+- `git diff`: Muestra las modificaciones que no han sido agregadas para el proximo commit (staging area).
 - `git diff <commit_id>`: Muestra las diferencias entre el commit actual y `commit_id`.
 
-#### Tag
-
+## Tag
 Punto en el historial, al cual se le asigna una etiqueta
-
 Mas info en repo
 [basicos_git](https://gitea.kickto.net/devfzn/basicos_git/wiki/Administracion-de-Proyecto#tags).
 

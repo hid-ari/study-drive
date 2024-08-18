@@ -19,7 +19,7 @@ Esta formación forma parte del Programa ONE, una alianza entre Alura Latam y Or
    - Soft Skills
 3. Diagnostico
 
-### Aprender a aprender
+# Aprender a aprender
 
 Resumen: [pdf online](https://caelum-online-public.s3.amazonaws.com/ESP-1962-Aprender+a+aprender/Aprender+a+Aprender.pdf) 
 
@@ -29,27 +29,31 @@ Resumen: [pdf online](https://caelum-online-public.s3.amazonaws.com/ESP-1962-Apr
 4. Estudiar con amigos, mediante foros, discord, github, rrss.
 5. Actualizarse, mantenerse al tanto de tecnologias, aprendizaje constante.
 
-#### Tu Ikigai
+# Tu Ikigai
 
-##### Lo que amas
+## Lo que amas
 
 1. Solucionar problematicas practicas con software, y automatización.
 2. Aprender y profundizar en lenguajes de programación y utilizarlo en soluciones/proyectos.
 3. Estar al tanto de los avances en software y hardware. Sistemas operativos y Aplicaciones.
-##### Lo que haces bien
+
+## Lo que haces bien
 
 1. Aprendizaje constantemente.
 2. Desarrollo de proyectos personales integrando distintas tecnologías.
 3. Comunicación en persona.
-##### Lo que puede ser pago por hacer
+
+## Lo que puede ser pago por hacer
 
 1. Soluciones de software.
 2. Comunicar ideas.
-##### Lo que el mundo necesita
+
+## Lo que el mundo necesita
 
 1. Mas automatización de tareas.
 2. Mas conocimiento y adopción de tecnologias seguras.
-#### Perfiles de recepcion de información
+
+## Perfiles de recepcion de información
 
 | Perfíl | Descripción |
 | - | - |
@@ -61,12 +65,12 @@ Resumen: [pdf online](https://caelum-online-public.s3.amazonaws.com/ESP-1962-Apr
 ![image](https://github.com/hid-ari/study_drive/blob/main/01_desarrollo_personal/imgs/dimensiones_aprendizaje_Kolb.png?raw=true) 
 
 [Estilos de aprendizaje de Kolb](https://www.actualidadenpsicologia.com/la-teoria-de-los-estilos-de-aprendizaje-de-kolb/)
-#### Zona de confort
+# Zona de confort
 
 Entusiasmo -> Estrés -> Aprendizaje
 
 [Teoría de Flujo Mihaly](teoria-de-flujo-mihaly-csikszentmihalyi-toolshero.jpg)
-#### Disciplina
+## Disciplina
 
 Constancia, dedicación, compromiso.
 
@@ -75,13 +79,14 @@ Constancia, dedicación, compromiso.
 - Recompensa: Resultado positivo al final que motiva a seguir.
 
 [Curso Extra](https://app.aluracursos.com/course/feedback-arte-orientar-orientado-sentido)
-#### Sumario
+## Sumario
 
-- **Lifelong Learning**
-- **Autoconocimiento y propósito**
-- **Estilo individual de aprendizaje**
-- **Zona de Aprendizaje y Disiplina**
-#### Eliminar barreras
+- Lifelong Learning
+- Autoconocimiento y propósito
+- Estilo individual de aprendizaje
+- Zona de Aprendizaje y Disiplina
+
+## Eliminar barreras
 
 - Distracción
 - Falta de tiempo/prorización
@@ -101,7 +106,7 @@ que más te incomodan? ¿Cómo y cuándo ocurren?
 
 > Ahora, para cada una, define un plan de acción para poner en práctica y evitar
 que te incomoden en tu rutina.
-#### Develeando el cerebro
+## Develeando el cerebro
 
 Mindset Fijo
 

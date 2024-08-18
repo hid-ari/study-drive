@@ -1,9 +1,9 @@
 # Java y Bases de Datos
 ## Cursos
 - Curso [Java y JDBC](jbdc.md)
-- Curso [JPA Persistence Hibernate](lean_startup.md)
-- Curso [JPA Avanzado](pitch_entrevistas.md)
-- Curso [Spring Boot 1](spring_boo)
+- Curso [JPA Persistence Hibernate](jpa_persistence_hiberna.md)
+- Curso [JPA Avanzado](jpa_avanzado.md)
+- Curso [Spring Boot 1](spring_boot_1.md)
 
 Para desarrollar una aplicación más completa y robusta, es probable que se
 necesite manejar información de clientes y/o productos, que deben estar

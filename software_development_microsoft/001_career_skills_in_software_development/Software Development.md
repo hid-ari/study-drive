@@ -8,12 +8,12 @@ Discover the skills needed for a career in software development. Learn the core 
 **Learn** foundational programming concepts, practices, and terminology
 
 ## Index
-[Life as a programmer](01_life_as_a_programmer.md)
-[Software Development](02_software_development.md)
-[Tools of the trade](03_tools_of_the_trade.md)
-[Programming Languages](04_programming_languages.md)
-[Python](05_python.md)
-[Working With Python](06_working_with_python.md)
-[Exploring Different Languages](07_exploring_different_languages.md)
-[Your First Programming Job](08_your_first_programming_job.md)
+1. [Life as a programmer](01_life_as_a_programmer.md)
+2. [Software Development](02_software_development.md)
+3. [Tools of the trade](03_tools_of_the_trade.md)
+4. [Programming Languages](04_programming_languages.md)
+5. [Python](05_python.md)
+6. [Working With Python](06_working_with_python.md)
+7. [Exploring Different Languages](07_exploring_different_languages.md)
+8. [Your First Programming Job](08_your_first_programming_job.md)
 

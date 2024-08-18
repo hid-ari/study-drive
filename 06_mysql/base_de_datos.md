@@ -3,7 +3,7 @@
 - Curso [Consultas SQL](consultas_sql.md)
 - Curso [DML: Manipulación de datos](dml.md)
 - Curso [Stored Procedures](procedures.md)
-- Curso []
+- Curso [DBA Seguridad]
 
 Para desarrollar una aplicación más completa y robusta, es probable que se
 necesite manejar información de clientes y/o productos, que deben estar

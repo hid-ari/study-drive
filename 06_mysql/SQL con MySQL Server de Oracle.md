@@ -1,7 +1,7 @@
 [Formación](https://app.aluracursos.com/formacion-oracle-mysql-one)
 
 - [Curso](https://app.aluracursos.com/course/introduccion-sql-mysql-manipule-consulte-datos)
-Introducción a SQL con [MySQL](study_drive/07_java_spring_boot/base_de_datos.md)
+Introducción a SQL con [MySQL](study_drive/06_mysql/base_de_datos.md)
 - [Curso](https://app.aluracursos.com/course/consultas-sql-mysql)
 Consultas [SQL](study_drive/06_mysql/consultas_sql.md)
 - Lectura

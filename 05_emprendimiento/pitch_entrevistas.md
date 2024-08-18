@@ -48,8 +48,7 @@ Transmitir las ideas espontaneamente.
 - Comenzar el video presentadose
 - Luego hablar dobre formación acádemica y experiencia profesional
 - Enfatizar cualidades
-- Elegir un proyecto del cual se está orgulloso, describirlo y comentar las
-contribuciones realizadas
+- Elegir un proyecto del cual se está orgulloso, describirlo y comentar las contribuciones realizadas
 
 #### Ejercicio
 
@@ -65,9 +64,7 @@ Tener en cuenta qué tipo de presentación vas a enfrentar y responder:
 #### Resumen Aula 1
 
 Cada día que pasa, el tiempo se vuelve más escaso y, como resultado, las
-personas no tienen tiempo para hablar entre sí, por lo que es importante que
-haya presentaciones rápidas en el mundo de los negocios que sean impactantes,
-y esto ha cambiado cada vez nuestro mercado.
+personas no tienen tiempo para hablar entre sí, por lo que es importante que haya presentaciones rápidas en el mundo de los negocios que sean impactantes y esto ha cambiado cada vez nuestro mercado.
 
 Esta presentación debe ser
 
@@ -75,8 +72,7 @@ Esta presentación debe ser
 - Impactante 
 - Con significado 
 
-Los primeros segundos de cualquier presentación son importantes porque si se
-logra captar la atención del público, este estará atento al discurso para
+Los primeros segundos de cualquier presentación son importantes porque si se logra captar la atención del público, este estará atento al discurso para
 obtener más información, caso contrario, ignorará automáticamente dicha
 información.
 
@@ -105,9 +101,7 @@ Preparación del Pitch para procesos de selección
   - Revisar el sonido
   - Ser cuidadoso al escribir el guión (o texto)
   - Cuidar la apariencia
-
 ----
-
 ### Business Model You
 
 Que es un
@@ -131,20 +125,17 @@ Marca
 4. ¿Como puedes contribuir a la empresa?
    - El tamaño de los proyectos que he trabajado, resultados explicitos obtenidos
 5. ¿Como interactúas?
-   - Habilidades para trabajar con un equipo, nivel de habilidades para comunicarse
-  y relacionarse
+   - Habilidades para trabajar con un equipo, nivel de habilidades para comunicarse y relacionarse
 6. ¿Como te conoce la gente?
    - como me puedieran definir en 3 palabras quienes me conocen
 7. ¿A quien ayudas?
-   - Hay personas que dependen de ti, cuidas de tus padres, cuales son tus motivaciones
-  sociales para obtener este trabajo
+   - Hay personas que dependen de ti, cuidas de tus padres, cuales son tus motivaciones sociales para obtener este trabajo
 
 ----
 
 ### Escribiendo el Pitch
 
-Con la base del BMY, ya se puede comenzar a redactar el Pitch, se tiene su base,
-ya solo queda eliminar las preguntas y mejorar la redacción de lo que se tiene.
+Con la base del BMY, ya se puede comenzar a redactar el Pitch, se tiene su base, ya solo queda eliminar las preguntas y mejorar la redacción de lo que se tiene. 
 Usar palabras con naturalidad.
 
 ejm

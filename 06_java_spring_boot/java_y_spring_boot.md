@@ -3,8 +3,8 @@ Tablero en [trello](https://trello.com/b/gWJsG18e/g5-formaci%C3%B3n-spring-boot)
 - Java y Bases de Datos
   - [Curso](https://app.aluracursos.com/course/introduccion-sql-mysql-manipule-consulte-datos)
 Java y [bases de datos](study_drive/06_java_spring_boot/base_de_datos.md)
-  - Lectura [JDBC](https://www.aluracursos.com/blog/conociendo-el-jdbc)
-  - Lectura [Maven](https://www.aluracursos.com/blog/que-es-maven)
+  - Lectura 
+  - Lectura 
   - [Curso](https://app.aluracursos.com/course/java-jdbc-trabajando-base-datos)
   Java y [JDBC](study_drive/06_java_spring_boot/jdbc.md)
 - JPA e Hibernate

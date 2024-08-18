@@ -19,7 +19,7 @@ Esta formación forma parte del Programa ONE, una alianza entre Alura Latam y Or
    - Soft Skills
 3. Diagnostico
 
-# Aprender a aprender
+## Aprender a aprender
 
 Resumen: [pdf online](https://caelum-online-public.s3.amazonaws.com/ESP-1962-Aprender+a+aprender/Aprender+a+Aprender.pdf) 
 
@@ -29,7 +29,7 @@ Resumen: [pdf online](https://caelum-online-public.s3.amazonaws.com/ESP-1962-Apr
 4. Estudiar con amigos, mediante foros, discord, github, rrss.
 5. Actualizarse, mantenerse al tanto de tecnologias, aprendizaje constante.
 
-# Tu Ikigai
+## Tu Ikigai
 
 ## Lo que amas
 
@@ -65,12 +65,12 @@ Resumen: [pdf online](https://caelum-online-public.s3.amazonaws.com/ESP-1962-Apr
 ![image](https://github.com/hid-ari/study_drive/blob/main/01_desarrollo_personal/imgs/dimensiones_aprendizaje_Kolb.png?raw=true) 
 
 [Estilos de aprendizaje de Kolb](https://www.actualidadenpsicologia.com/la-teoria-de-los-estilos-de-aprendizaje-de-kolb/)
-# Zona de confort
+## Zona de confort
 
 Entusiasmo -> Estrés -> Aprendizaje
 
 [Teoría de Flujo Mihaly](teoria-de-flujo-mihaly-csikszentmihalyi-toolshero.jpg)
-# Disciplina
+## Disciplina
 
 Constancia, dedicación, compromiso.
 
@@ -79,7 +79,7 @@ Constancia, dedicación, compromiso.
 - Recompensa: Resultado positivo al final que motiva a seguir.
 
 [Curso Extra](https://app.aluracursos.com/course/feedback-arte-orientar-orientado-sentido)
-# Sumario
+## Sumario
 
 - Lifelong Learning
 - Autoconocimiento y propósito

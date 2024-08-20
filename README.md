@@ -8,7 +8,7 @@ Repository with obsidian notes about programming courses. (In development)
 4. [Java](04_java_oo/primeros_pasos.md)
 5. [Emprendimiento](05_emprendimiento/emprendimiento.md)
 6. [SQL MySQL](06_mysql/base_de_datos.md)
-7. [JBDC | JPA | Spring Boot](study_drive/07_java_spring_boot/jdbc.md)
+7. [JBDC | JPA | Spring Boot](07_java_spring_boot/jdbc.md)
 
 ## Microsoft  Software Development
 1. [Career Skills in Software Development](software_development_microsoft/001_career_skills_in_software_development/software_development.md)

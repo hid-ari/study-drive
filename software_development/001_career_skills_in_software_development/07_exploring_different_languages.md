@@ -1,6 +1,6 @@
 # Different Languages
 
-![[study_drive/Software_Development/0_imgs/Pasted image 20240808115402.png]]
+![[study_drive/software_development/0_imgs/Pasted image 20240808115402.png]]
 
 Java, Python, and C++ all inherit ideas from C.
 

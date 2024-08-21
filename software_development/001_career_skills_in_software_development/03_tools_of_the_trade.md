@@ -8,7 +8,7 @@ Version control systems, or VCS, are software tools that help software teams man
 Version control is an essential part of a programmer's everyday practice. I don't know anyone who develops without it. 
 #### The benefits of using version control:
 
-![[study_drive/Software_Development/0_imgs/Pasted image 20240807035624.png]]
+![[study_drive/software_development/0_imgs/Pasted image 20240807035624.png]]
 
 Having the history of changes allows you to go back if you make a mistake. Recall, writing code is a lot of trial and error. You're bound to make mistakes. So having version control is your safety net. 
 
@@ -16,8 +16,8 @@ It allows multiple programmers to work on the project simultaneously while minim
 
 And finally, having the code changes annotated helps with troubleshooting when a bug is discovered. Like our account ledger analogy, if the balance goes in the negative, you can find out which transaction was the culprit. Similarly, when there is a bug in the code, you can use the log of changes from your VCS to debug the cause. 
 
-![[study_drive/Software_Development/0_imgs/Pasted image 20240807040000.png]]
-![[study_drive/Software_Development/0_imgs/Pasted image 20240807043547.png]]One of the most popular version control systems today is Git. Git is free and open source. It exploded in popularity due to its branching model. A branching model defines the rules for making isolated code changes and then having those changes brought back into the main project. 
+![[study_drive/software_development/0_imgs/Pasted image 20240807040000.png]]
+![[study_drive/software_development/0_imgs/Pasted image 20240807043547.png]]One of the most popular version control systems today is Git. Git is free and open source. It exploded in popularity due to its branching model. A branching model defines the rules for making isolated code changes and then having those changes brought back into the main project. 
 
 Git's branching model allows you to have multiple local branches that can be entirely independent of each other. And then, Git makes it fast and easy to merge those changes back into the main branch or discard them altogether. It's up to you. Version control systems help software teams work faster and smarter. It's an essential practice of modern-day software development.
 
@@ -43,7 +43,7 @@ Introduction to libraries and frameworks
 
 As programmers, it's our job to develop software that meets a business need. And we often do this with a specific deadline in view. So it wouldn't make sense to write the same code again and again for each different software project we work on, especially if the code is already available and verified by other programmers. 
 
-![[study_drive/Software_Development/0_imgs/Pasted image 20240807105619.png]]
+![[study_drive/software_development/0_imgs/Pasted image 20240807105619.png]]
 
 This is so common in computer programming that we call code that someone else has written and verified a library. Libraries are essential for modern software development, because otherwise, we would solve the same fundamental problems repeatedly. 
 
@@ -61,7 +61,7 @@ Next.js is a popular framework for developing web applications. It defines the f
 
 ## Differente types of IDEs
 
-![[study_drive/Software_Development/0_imgs/Pasted image 20240807110343.png]]
+![[study_drive/software_development/0_imgs/Pasted image 20240807110343.png]]
 Integrated development environment (IDE)
 
 Is an application that provides special tools for programmers to write, debug, and compile code. 

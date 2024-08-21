@@ -1,4 +1,4 @@
-SQL funciona para el manejo de [[study_drive/Other/SQL/Databases]]
+SQL funciona para el manejo de [[study_drive/other/SQL/Databases]]
 
 Algunas clave entre las bases de datos SQL y NoSQL son:
 
@@ -9,10 +9,10 @@ Algunas clave entre las bases de datos SQL y NoSQL son:
 Las bases de datos NoSQL suelen utilizarse en escenarios donde se prioriza la flexibilidad y la escalabilidad, como en aplicaciones de big data y web en tiempo real. Por otro lado, las bases de datos SQL se utilizan comúnmente para aplicaciones tradicionales con datos estructurados. Es importante elegir el tipo de base de datos adecuado en función de los requisitos específicos de la aplicación y la naturaleza de los datos que se manejan. Tanto los sistemas SQL como los NoSQL ofrecen ventajas únicas y satisfacen diferentes necesidades, por lo que la elección entre ellos es fundamental para una gestión óptima de los datos.
 
 Otros:
-[[study_drive/Other/SQL/Stored Procedures]]
-[[study_drive/Other/SQL/SQL con MySQL]]
-[[study_drive/Other/SQL/Engines]]
-[[study_drive/Other/SQL/Tuning]]
-[[study_drive/Other/SQL/DBA]] 
-[[study_drive/Other/SQL/Backup]]
-[[study_drive/Other/SQL/Datadir]]
+[[study_drive/other/SQL/Stored Procedures]]
+[[study_drive/other/SQL/SQL con MySQL]]
+[[study_drive/other/SQL/Engines]]
+[[study_drive/other/SQL/Tuning]]
+[[study_drive/other/SQL/DBA]] 
+[[study_drive/other/SQL/Backup]]
+[[study_drive/other/SQL/Datadir]]

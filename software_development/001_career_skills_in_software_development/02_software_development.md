@@ -17,7 +17,7 @@ Gives programmers the tools they need to create code
 
 Software is developed in various phases known as the software development life cycle or SDLC. known as the software development life cycle or SDLC. This process allows companies to produce software of high quality in a timely efficient manner.
 
-![[study_drive/Software_Development/0_imgs/Pasted image 20240807013906.png]]
+![[study_drive/software_development/0_imgs/Pasted image 20240807013906.png]]
 ### There are seven phases of the SDLC.
   
 1. Requirements gathering. This is where certain members of the software team work to understand what is needed by users and the business. They may conduct interviews, hold workshops, or research competitors to provide the direction for the project. 
@@ -71,11 +71,11 @@ If you can't get the software in users' hands, your project cannot succeed. Wors
 
 During deployment, the code written by the programmers is packaged, tested, and released, so that the desired customers can use it. I've had the pleasure of developing both web and mobile applications. For modern web applications, the deployment process is highly automated. It could look something like this. 
 
-![[study_drive/Software_Development/0_imgs/Pasted image 20240807021646.png]]
+![[study_drive/software_development/0_imgs/Pasted image 20240807021646.png]]
 
 The programmer writes new code. The new code is tested, and no bugs are found. Then the code is packaged into the existing project. And then a new executable is produced. An executable is a file or program that computers can run. This executable is then copied to the internet. From there, users can go to the website's URL and benefit from the programmer's changes. 
 
-![[study_drive/Software_Development/0_imgs/Pasted image 20240807021908.png]]
+![[study_drive/software_development/0_imgs/Pasted image 20240807021908.png]]
 
 Compare this to a typical mobile application. The process is often a mix of automated and manual steps. The programmer writes new code, and before the chosen deployment date, the code is packaged into the existing project. A new executable is then produced. Next, the new executable is given to the tester. The tester manually checks that the recent changes didn't introduce any bugs. Once that's done, the executable is copied to an app store. App stores help protect the executable from illegal copying and provide a mechanism for delivering the changes to users. 
 

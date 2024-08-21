@@ -1,5 +1,5 @@
 ## Introduction to python
-![[Pasted image 20240807235811.png]] 
+![[study_drive/Software_Development/0_imgs/Pasted image 20240807235811.png]] 
 Python is ideal for those who are starting out with programming, because it has few syntax requirements. Additionally, Python code tends to be more concise meaning it takes fewer lines of code to get things done.
 
 Python was designed to be a general purpose language. You can use it to create web applications, perform scientific analysis, create games, and more.
@@ -27,8 +27,8 @@ print(favorite_snack)
 Any expression that breaks down to either true or false is called a conditional or boolean expression.
 
 Boolean expressions, boolean expressions are useful in helping you to make decisions in your code. The most common way for a computer to make decisions based on a condition is using an if statement. An if statement has this general structure, it starts with the word if, that's where it gets its name from then it checks some condition and if that condition is true then it will do the work you've placed inside of it. To visualize this, think of it as a flow chart 
-![[Pasted image 20240808001141.png]]
-![[Pasted image 20240808001423.png]]
+![[study_drive/Software_Development/0_imgs/Pasted image 20240808001141.png]]
+![[study_drive/Software_Development/0_imgs/Pasted image 20240808001423.png]]
 ```python
 having_fun = "yes"
 if (having_fun == "yes"):

@@ -4,12 +4,12 @@
 Object-oriented programming involves using code to represent real world things and situations. 
 
 Let's look at an example. We'll take a puppy. What are some of their characteristics? They have a name, an owner, a breed, and maybe even a favorite toy. 
-![[Pasted image 20240808093645.png]]
+![[study_drive/Software_Development/0_imgs/Pasted image 20240808093645.png]]
 What do they do? They can sit, play, and sleep. 
-![[Pasted image 20240808093711.png]]
+![[study_drive/Software_Development/0_imgs/Pasted image 20240808093711.png]]
 With object-oriented programming, a puppy would be represented as a class with certain properties and functions. 
-![[Pasted image 20240808093738.png]]A class is a blueprint for how other objects should be created. For example, we can have a puppy named Marble and one named Onyx. 
-![[Pasted image 20240808093925.png]]They would represent two instances of our puppy class. Both marble and Onyx have the same types of properties and actions, but they are not the same. They have unique names, breeds, owners, and favorite toys. Moreover, Onyx could be playing while Marble is sitting. But what is the benefit of structuring code this way? One major benefit is that it helps to isolate code changes. 
+![[study_drive/Software_Development/0_imgs/Pasted image 20240808093738.png]]A class is a blueprint for how other objects should be created. For example, we can have a puppy named Marble and one named Onyx. 
+![[study_drive/Software_Development/0_imgs/Pasted image 20240808093925.png]]They would represent two instances of our puppy class. Both marble and Onyx have the same types of properties and actions, but they are not the same. They have unique names, breeds, owners, and favorite toys. Moreover, Onyx could be playing while Marble is sitting. But what is the benefit of structuring code this way? One major benefit is that it helps to isolate code changes. 
 
 There might be multiple actions that we want our puppies to take when they play. They could run, jump or roll over, and then maybe later we decide we actually want puppies to run, beg, and lie down. With object-oriented programming, We only need to make the changes in one place. Score. Additionally, this type of programming style has wide adoption across programming languages. You will be able to find numerous resources and examples to aid you in learning the concepts. By adding object-oriented programming to your arsenal, you'll be able to develop more flexible software with fewer bugs.
 
@@ -30,7 +30,7 @@ marble.play()
 
 Your files can get long and unruly as you add more code to your classes. To keep things neat and organized, it's best to store your classes in modules. A module is a file consisting of Python code. It can define functions, classes, variables, and more. There are several advantages to breaking up code in a large application. 
 
-![[Pasted image 20240808114112.png]]
+![[study_drive/Software_Development/0_imgs/Pasted image 20240808114112.png]]
 
 The first is simplicity. A module typically focuses on one piece of the software puzzle. This makes development easier and less error-prone, as you don't have to keep the entire domain in your head at the same time. 
 

@@ -1,0 +1,1 @@
+![[study_drive/Other/SQL/imgs/Pasted image 20240716165412.png]]![[study_drive/Other/SQL/imgs/Pasted image 20240716165416.png]] ![[study_drive/Other/SQL/imgs/Pasted image 20240716165425.png]] ![[study_drive/Other/SQL/imgs/Pasted image 20240716165432.png]] ![[study_drive/Other/SQL/imgs/Pasted image 20240716165439.png]]

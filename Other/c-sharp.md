@@ -1,4 +1,4 @@
-![[study_drive/others/SQL/imgs/Pasted image 20240716170700.png]]
+![[study_drive/Other/SQL/imgs/Pasted image 20240716170700.png]]
  C#
 
 It is an object-oriented programming language created by Microsoft that runs on the .NET Framework.

@@ -79,8 +79,8 @@ nuevas características principales son:
 
 Configuración adicional en IntelliJ IDE para evitar reinicio manual
 
-![img](study_drive/Alura/java-spring-boot/imgs/intelli_complr_set.png)
-![img](study_drive/Alura/java-spring-boot/imgs/intelli_adv_set.png)
+![img](study_drive/alura-oracle/java-spring-boot/imgs/intelli_complr_set.png)
+![img](study_drive/alura-oracle/java-spring-boot/imgs/intelli_adv_set.png)
 
 Estructura del proyecto vall_api
 
@@ -172,7 +172,7 @@ cualquier ***cliente HTTP***.
 diferentes orígenes”. Es común tener errores CORS al consumir y poner a
 disposición una API.
 
-![img](study_drive/Alura/java-spring-boot/imgs/spring_boot_cors_error.png)
+![img](study_drive/alura-oracle/java-spring-boot/imgs/spring_boot_cors_error.png)
 
 **CORS** es un mecanismo utilizado para agregar encabezados HTTP que indica a
 los navegadores permitir que una aplicación web se ejecute en un origen y acceda
@@ -1026,4 +1026,4 @@ Borrar paciente con método **DELETE** a URL `http://127.0.0.1:8080/pacientes/3`
 
 ---
 
-Continua en [Buenas prácticas y protección de una API Rest](study_drive/Alura/java-spring-boot/spring_boot_2.md)
+Continua en [Buenas prácticas y protección de una API Rest](study_drive/alura-oracle/java-spring-boot/spring_boot_2.md)

@@ -721,7 +721,7 @@ Ejemplo
 | 123IERUDJFH124IUDF26HD45 | f2188c85 |
 | DF | 795741b2 |
 
-[<img src="./imgs/hash_table.svg" width="1000"/>](study_drive/Alura/mysql/imgs/hash_table.svg)
+[<img src="./imgs/hash_table.svg" width="1000"/>](study_drive/alura-oracle/mysql/imgs/hash_table.svg)
 
 ## Creando indices
 
@@ -856,7 +856,7 @@ ANALYZE: {
 
 Ejemplo
 
-![[study_drive/Alura/mysql/imgs/wb-visual-explain-hash-join-sakila.png]]
+![[study_drive/alura-oracle/mysql/imgs/wb-visual-explain-hash-join-sakila.png]]
 
 ```sql
 SELECT P.codigo_del_producto, I.cantidad FROM tabla_de_productos P
@@ -864,7 +864,7 @@ INNER JOIN items_facturas I
 ON P.codigo_del_producto = I.codigo_del_producto;
 ```
 
-![[study_drive/Alura/mysql/imgs/graph_cost_query1.png]]
+![[study_drive/alura-oracle/mysql/imgs/graph_cost_query1.png]]
 
 ```sql
 SELECT P.codigo_del_producto, YEAR(F.fecha_venta) AS "AÑO", I.cantidad
@@ -874,7 +874,7 @@ ON P.codigo_del_producto = I.codigo_del_producto
 INNER JOIN facturas F ON I.numero = F.numero;
 ```
 
-![[study_drive/Alura/mysql/imgs/graph_cost_query2.png]]
+![[study_drive/alura-oracle/mysql/imgs/graph_cost_query2.png]]
 
 Sin índices ni claves primarias
 
@@ -886,7 +886,7 @@ ON P.codigo_del_producto = I.codigo_del_producto
 INNER JOIN facturas2 F ON I.numero = F.numero;
 ```
 
-![[study_drive/Alura/mysql/imgs/graph_cost_query3.png]]
+![[study_drive/alura-oracle/mysql/imgs/graph_cost_query3.png]]
 ### mysqslap
 
 `mysqslap` o `mariadb-slap`

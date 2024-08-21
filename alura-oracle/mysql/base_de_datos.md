@@ -1,10 +1,10 @@
 # Java y Bases de Datos
 ## Cursos
-- Curso [Consultas SQL](study_drive/Alura/mysql/consultas_sql.md)
-- Curso [DML: Manipulación de datos](study_drive/Alura/mysql/dml.md)
-- Curso [Stored Procedures](study_drive/Alura/mysql/procedures.md)
-- Curso [DBA](study_drive/Alura/mysql/dba_seguridad_optimizacion.md)
-- Curso [Proyecto MySQL](study_drive/Alura/mysql/proyecto_mysql.md)
+- Curso [Consultas SQL](study_drive/alura-oracle/mysql/consultas_sql.md)
+- Curso [DML: Manipulación de datos](study_drive/alura-oracle/mysql/dml.md)
+- Curso [Stored Procedures](study_drive/alura-oracle/mysql/procedures.md)
+- Curso [DBA](study_drive/alura-oracle/mysql/dba_seguridad_optimizacion.md)
+- Curso [Proyecto MySQL](study_drive/alura-oracle/mysql/proyecto_mysql.md)
 ## Lectura y videos
 - Lectura [SELECT, INSERT, UPDATE y DELETE](https://www.aluracursos.com/blog/select-insert-update-delete-sql)
 - Lectura [null, blank](https://www.aluracursos.com/blog/en-sql-null-es-null-vacio-es-vacio)

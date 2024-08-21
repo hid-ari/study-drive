@@ -1,9 +1,9 @@
 # Emprendimiento
 
 ## Cursos
-- Curso [Business Model Canvas](study_drive/Alura/emprendimiento/business_model_canvas.md)
-- Curso [Lean Startup](study_drive/Alura/emprendimiento/lean_startup.md)
-- Curso [Pitch Entrevistas](study_drive/Alura/emprendimiento/pitch_entrevistas.md)
+- Curso [Business Model Canvas](study_drive/alura-oracle/emprendimiento/business_model_canvas.md)
+- Curso [Lean Startup](study_drive/alura-oracle/emprendimiento/lean_startup.md)
+- Curso [Pitch Entrevistas](study_drive/alura-oracle/emprendimiento/pitch_entrevistas.md)
 
 ## De la idea al plan de negocios
 
@@ -211,8 +211,8 @@ En una startup todos son emprendedores
 
 ### Escalabilidad e implementación
 
-[<img src="./imgs/viab_graph.png" width="400"/>](study_drive/Alura/emprendimiento/imgs/viab_graph.png)
-[<img src="./imgs/esca_graph.png" width="400"/>](study_drive/Alura/emprendimiento/imgs/esca_graph.png)
+[<img src="./imgs/viab_graph.png" width="400"/>](study_drive/alura-oracle/emprendimiento/imgs/viab_graph.png)
+[<img src="./imgs/esca_graph.png" width="400"/>](study_drive/alura-oracle/emprendimiento/imgs/esca_graph.png)
 
 ### Recurrencia
 
@@ -338,7 +338,7 @@ Recurrencia, subscripción
 
 ### Margen
 
-[<img src="./imgs/punto_muerto.png" width="400"/>](study_drive/Alura/emprendimiento/imgs/punto_muerto.png)
+[<img src="./imgs/punto_muerto.png" width="400"/>](study_drive/alura-oracle/emprendimiento/imgs/punto_muerto.png)
 
 - Margen de ganancia
 - Costos fijos
@@ -354,15 +354,15 @@ Recurrencia, subscripción
 
 ## Business Model Canvas
 
-[<img src="./imgs/bmc_template.jpg" width="100%"/>](study_drive/Alura/emprendimiento/imgs/bmc_template.jpg)
+[<img src="./imgs/bmc_template.jpg" width="100%"/>](study_drive/alura-oracle/emprendimiento/imgs/bmc_template.jpg)
 
 ### Ejms. BMC
 
-[<img src="./imgs/tesla_lcm.webp" width="100%"/>](study_drive/Alura/emprendimiento/imgs/tesla_lcm.webp)
-[<img src="./imgs/google_lcm.webp" width="100%"/>](study_drive/Alura/emprendimiento/imgs/google_lcm.webp)
-[<img src="./imgs/apple_lcm.webp" width="100%"/>](study_drive/Alura/emprendimiento/imgs/apple_lcm.webp)
-[<img src="./imgs/skype_lcm.webp" width="100%"/>](study_drive/Alura/emprendimiento/imgs/skype_lcm.webp)
-[<img src="./imgs/facebook_lcm.webp" width="100%"/>](study_drive/Alura/emprendimiento/imgs/facebook_lcm.webp)
+[<img src="./imgs/tesla_lcm.webp" width="100%"/>](study_drive/alura-oracle/emprendimiento/imgs/tesla_lcm.webp)
+[<img src="./imgs/google_lcm.webp" width="100%"/>](study_drive/alura-oracle/emprendimiento/imgs/google_lcm.webp)
+[<img src="./imgs/apple_lcm.webp" width="100%"/>](study_drive/alura-oracle/emprendimiento/imgs/apple_lcm.webp)
+[<img src="./imgs/skype_lcm.webp" width="100%"/>](study_drive/alura-oracle/emprendimiento/imgs/skype_lcm.webp)
+[<img src="./imgs/facebook_lcm.webp" width="100%"/>](study_drive/alura-oracle/emprendimiento/imgs/facebook_lcm.webp)
 
 ## Plan de negocio
 

@@ -115,7 +115,7 @@ los comentarios. A partir de ahí reconstruimos el negocio.
 
 *Producto Mínimo Viable*
 
-![img](study_drive/Alura/emprendimiento/imgs/mvp_concepto.png)
+![img](study_drive/alura-oracle/emprendimiento/imgs/mvp_concepto.png)
 
 #### Enfoque
 

@@ -1,6 +1,6 @@
 # API Rest Java - Buenas prácticas y protección
 
-Continuación de [Desarrollo de una API Rest](study_drive/Alura/java-spring-boot/spring_boot_1.md) donde se vio:
+Continuación de [Desarrollo de una API Rest](study_drive/alura-oracle/java-spring-boot/spring_boot_1.md) donde se vio:
 
 - Creación de un API Rest
 - Crud (Create, Read, Update, Delete)
@@ -907,4 +907,4 @@ documentación de
 ---
 
 Continua en
-[Documentar, probar y preparar una API para su implementación](study_drive/Alura/java-spring-boot/spring_boot_3.md)
+[Documentar, probar y preparar una API para su implementación](study_drive/alura-oracle/java-spring-boot/spring_boot_3.md)

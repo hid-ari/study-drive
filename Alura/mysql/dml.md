@@ -1,7 +1,7 @@
 # Data Manipulation Language
 
 Se repasa lo visto en el primer curso sobre
-[bases de datos](study_drive/Alura/06_mysql/base_de_datos.md)
+[bases de datos](study_drive/Alura/mysql/base_de_datos.md)
 
 ### Tipos de datos
 
@@ -285,7 +285,7 @@ WHERE DNI NOT IN (SELECT DNI FROM tb_cliente);
 
 ### Table Data Import Wizard
 
-![img](study_drive/Alura/06_mysql/imgs/table_data_import_wizard.png)
+![img](study_drive/Alura/mysql/imgs/table_data_import_wizard.png)
 
 ## Update
 

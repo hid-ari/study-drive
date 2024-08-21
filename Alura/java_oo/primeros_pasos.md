@@ -1,12 +1,12 @@
 # Java 
 [Primeros Pasos](https://app.aluracursos.com/course/java-primeros-pasos)
 ## Cursos
-- Curso [Orientación a objetos](study_drive/Alura/04_java_oo/orientacion_obj.md)
-- Curso [Herencia e Interfaces](study_drive/Alura/04_java_oo/herencia_interfaces.md)
-- Curso [Enums y anotaciones](study_drive/Alura/04_java_oo/enums_anotaciones_java.md)
-- Curso [Excepciones](study_drive/Alura/04_java_oo/excepciones.md)
-- Curso [Bibliotecas Principales](study_drive/Alura/04_java_oo/bibliotecas_principales.md)
-- Curso [Java.util](study_drive/Alura/04_java_oo/java_util.md)
+- Curso [Orientación a objetos](study_drive/Alura/java_oo/orientacion_obj.md)
+- Curso [Herencia e Interfaces](study_drive/Alura/java_oo/herencia_interfaces.md)
+- Curso [Enums y anotaciones](study_drive/Alura/java_oo/enums_anotaciones_java.md)
+- Curso [Excepciones](study_drive/Alura/java_oo/excepciones.md)
+- Curso [Bibliotecas Principales](study_drive/Alura/java_oo/bibliotecas_principales.md)
+- Curso [Java.util](study_drive/Alura/java_oo/java_util.md)
 ## ¿Que es Java?
 **Java** es un lenguaje de programación que se actualiza periódicamente por **Oracle**, la empresa responsable de su desarrollo. Cada nueva versión de Java trae consigo nuevas características, mejoras de rendimiento, correcciones de errores y actualizaciones de seguridad. Estas versiones se numeran, siguiendo un patrón específico.
 

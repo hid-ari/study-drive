@@ -1,9 +1,9 @@
 # Desarrollo Personal
 #studydrive #desarrollopersonal 
 ## Cursos
-- Curso [enfoque](study_drive/Alura/01_desarrollo_personal/enfoque.md)
-- Curso [habitos](study_drive/Alura/01_desarrollo_personal/habitos.md)
-- Curso [linkedin](study_drive/Alura/01_desarrollo_personal/linkedin.md)
+- Curso [enfoque](study_drive/Alura/desarrollo_personal/enfoque.md)
+- Curso [habitos](study_drive/Alura/desarrollo_personal/habitos.md)
+- Curso [linkedin](study_drive/Alura/desarrollo_personal/linkedin.md)
 ## Habilidades Blandas
 Durante los cursos vas a conocer herramientas para promover tu foco, aprender conceptos como el loop del hábito, el método S.M.A.R.T, GTD (Getting Things Done) y aplicarlos para mejorar tu organización y desarrollar nuevos hábitos y mejorar tu desarrollo personal.
 
@@ -67,7 +67,7 @@ Resumen: [pdf online](https://caelum-online-public.s3.amazonaws.com/ESP-1962-Apr
 ## Zona de confort
 Entusiasmo -> Estrés -> Aprendizaje
 
-[Teoría de Flujo Mihaly](study_drive/Alura/01_desarrollo_personal/imgs/teoria-de-flujo-mihaly-csikszentmihalyi-toolshero.jpg)
+[Teoría de Flujo Mihaly](study_drive/Alura/desarrollo_personal/imgs/teoria-de-flujo-mihaly-csikszentmihalyi-toolshero.jpg)
 ## Disciplina
 Constancia, dedicación, compromiso.
 

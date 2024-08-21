@@ -1,7 +1,7 @@
 # API Rest Java - Documentar, Probar y Preparar una API para su Implementación
 
 Continuación de
-[Buenas Prácticas y Protección de una API Rest](study_drive/Alura/07_java_spring_boot/spring_boot_2.md) donde se
+[Buenas Prácticas y Protección de una API Rest](study_drive/Alura/java_spring_boot/spring_boot_2.md) donde se
 vio:
 
 - Creación de un API Rest

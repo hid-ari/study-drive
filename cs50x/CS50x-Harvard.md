@@ -1,5 +1,5 @@
 Start september 3
-[[study_drive/CS50x/Week 0 - Scratch]]
+[[study_drive/CS50x/Week 0-Scratch]]
 [[study_drive/CS50x/Week 1]]
 [[study_drive/CS50x/Week 2]]
 [[study_drive/CS50x/Week 3]]

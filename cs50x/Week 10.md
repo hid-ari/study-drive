@@ -1,1 +1,1 @@
-[[study_drive/CS50x/CS50x - Harvard]]
+[[study_drive/CS50x/CS50x-Harvard]]

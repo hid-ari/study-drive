@@ -1,10 +1,10 @@
 # JDBC
 ## Cursos
-- Curso [JPA Persistence Hibernate](study_drive/Alura/java_spring_boot/jpa_persistence_hibernate.md)
-- Curso [JPA Avanzado](study_drive/Alura/java_spring_boot/jpa_avanzado.md)
-- Curso [Spring Boot 1](study_drive/Alura/java_spring_boot/spring_boot_1.md)
-- Curso [Spring Boot 2](study_drive/Alura/java_spring_boot/spring_boot_2.md)
-- Curso [Spring Boot 3](study_drive/Alura/java_spring_boot/spring_boot_3.md)
+- Curso [JPA Persistence Hibernate](study_drive/Alura/java-spring-boot/jpa_persistence_hibernate.md)
+- Curso [JPA Avanzado](study_drive/Alura/java-spring-boot/jpa_avanzado.md)
+- Curso [Spring Boot 1](study_drive/Alura/java-spring-boot/spring_boot_1.md)
+- Curso [Spring Boot 2](study_drive/Alura/java-spring-boot/spring_boot_2.md)
+- Curso [Spring Boot 3](study_drive/Alura/java-spring-boot/spring_boot_3.md)
 ## Lectura
 - Lectura [JDBC](https://www.aluracursos.com/blog/conociendo-el-jdbc)
 - Lectura [Maven](https://www.aluracursos.com/blog/que-es-maven)

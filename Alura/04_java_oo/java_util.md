@@ -839,7 +839,7 @@ public abstract class Cuenta implements Comparable<Cuenta> {
 Averiguar:
 
 - ¿Cómo invertir el orden de una lista?
-  - Hecho en linea [822](java_util.md#orden-natural) `Collections.reverse(lista);`
+  - Hecho en linea [822](study_drive/Alura/04_java_oo/java_util.md#orden-natural) `Collections.reverse(lista);`
 - ¿Cómo mezclar todos los elementos de una lista?
   - `Collections.shuffle(lista);`
 - ¿Cómo rotar los elementos de una lista?

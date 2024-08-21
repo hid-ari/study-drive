@@ -35,7 +35,7 @@ Banner, buscar imagenes en:
 
 Idea de comienzo de resumen linkedin
 
-![img](idea_partida_resumen_profesional_.png)
+![img](study_drive/Alura/01_desarrollo_personal/imgs/idea_partida_resumen_profesional_.png)
 
 Perfil en multpiples idiomas
 
@@ -111,7 +111,7 @@ Social Selling Linkedin.
     - Centrarse en los tomadores de deciciones.
     - Nutrir la relación continuamente para ser recordado.
 
-![img](linkedin_ssi.png)
+![img](study_drive/Alura/01_desarrollo_personal/imgs/linkedin_ssi.png)
 
 > Realiza estos 4 pasos:
 >  

@@ -33,7 +33,7 @@ public class Flujo {
 
 Punto de interrupción **breakpoint** en el IDE
 
-![img](debug_break_point.png)
+![img](study_drive/Alura/04_java_oo/imgs/debug_break_point.png)
 
 ## Excepciones
 

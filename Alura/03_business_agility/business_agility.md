@@ -324,7 +324,7 @@ Kanban es una evolución de cómo organizar el trabajo de un Scrum Team, sin ten
 
 El método Kanban consta de tareas y se divide en 5 etapas: documentación, creación de prototipos, codificación, pruebas y entrega.
 
-![img](kanban_.png)
+![img](study_drive/Alura/03_business_agility/imgs/kanban_.png)
 
 Se usan *post-its* en cada uno de los pasos, que generalmente contienen una breve explicación de la tarea. Un determinado grupo de personas trabaja en cada etapa, que puede ser una, dos o incluso más.
 

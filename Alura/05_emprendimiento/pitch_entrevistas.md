@@ -110,7 +110,7 @@ Que es un
 Marca
 [personal](https://josezamalloaj.wordpress.com/2017/09/08/el-inicio-ideas-y-herramientas-del-personal-branding/)
 
-![img](business_model_you_es.png)
+![img](study_drive/Alura/05_emprendimiento/imgs/business_model_you_es.png)
 
 #### Ejemplo BMY
 

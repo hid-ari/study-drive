@@ -1,6 +1,6 @@
 Enteder el negocio completando el **BMC**
 
-![img](bmc_template.jpg)
+![img](study_drive/Alura/05_emprendimiento/imgs/bmc_template.jpg)
 
 Curso
 [Business Model Canvas pt 1](https://app.aluracursos.com/course/business-model-canvas-parte-1-modelo-poderoso-negocio/)
@@ -15,12 +15,12 @@ Aplicación de movilidad urbana **Me Transporte**
 Ser una alternativa para personas que no poseen un vehículo, tal como Uber, Didi
 o Beat.
 
-![img](brief_0.png)
-![img](brief_1.png)
+![img](study_drive/Alura/05_emprendimiento/imgs/brief_0.png)
+![img](study_drive/Alura/05_emprendimiento/imgs/brief_1.png)
 
 ### Problemas vistos en la aplicación
 
-![img](brief_2.png)
+![img](study_drive/Alura/05_emprendimiento/imgs/brief_2.png)
 
 - **Bajo número de descargas**
 - **Público/Segmento de clientes - No descargaron la app. Los usuarios que
@@ -67,7 +67,7 @@ Es decir es una ***Plataforma multilateral***
 - ***Mercado segmentado*** ejm. Tarjetas de crédito
 - ***Mercado diversificado*** ejm. Amazon, Supermercados
 
-![img](bmc_transportme_1.png)
+![img](study_drive/Alura/05_emprendimiento/imgs/bmc_transportme_1.png)
 
 ## Propuesta de valor
 
@@ -86,7 +86,7 @@ mercado específico"**
 Algunos comentarios en la App Store muestran que **hay problemas en dar valor a
 los clientes**
 
-![img](brief_review.png)
+![img](study_drive/Alura/05_emprendimiento/imgs/brief_review.png)
 
 - **Cuantitativa**, ejm. Precio, velocidad del servicio, etc.
 - **Cualitatitva**, ejm. Diseño, experiencia del cliente, etc.
@@ -103,7 +103,7 @@ los clientes**
 | "El trabajo, hecho" | Se crea valor ayudando al cliente a realizar determinados trabajos | *PayPal* |
 | Personalización | La adaptación de los productos y servicios a las necesidades específicas de los diferentes clientes o segmentos de mercado | *UberPermier* |
 
-![img](bmc_transportme_2.png)
+![img](study_drive/Alura/05_emprendimiento/imgs/bmc_transportme_2.png)
 
 ## Canales
 
@@ -145,7 +145,7 @@ de intermediación, ejm.
 - Una tienda propia
 - Amanzon Go
 
-![img](bmc_transportme_3.png)
+![img](study_drive/Alura/05_emprendimiento/imgs/bmc_transportme_3.png)
 
 ## Relación con los clientes
 
@@ -162,7 +162,7 @@ de intermediación, ejm.
 | Comunidades | Foros, Alura, Reddit, Laneros, Worldpackers |
 | Autoservicio | Centro de ayuda en facebok, un buffet, etc. |
 
-![img](bmc_transportme_4.png)
+![img](study_drive/Alura/05_emprendimiento/imgs/bmc_transportme_4.png)
 
 ----
 
@@ -185,7 +185,7 @@ Curso
 | Anuncios | Youtube ads |
 | Tasa de Corretaje | Instituciones financieras, MercadoPago, TransBank |
 
-![img](bmc_transportme_5.png)
+![img](study_drive/Alura/05_emprendimiento/imgs/bmc_transportme_5.png)
 
 ## Recursos Clave
 
@@ -196,7 +196,7 @@ Curso
 | Intelectual | Marcas, patentes, derechos de autor, BBDD, información privada |
 | Económico | Aporte financiero para abrir negocio propio |
 
-![img](bmc_transportme_6.png)
+![img](study_drive/Alura/05_emprendimiento/imgs/bmc_transportme_6.png)
 
 ## Actividades Clave
 
@@ -206,7 +206,7 @@ Curso
 | Resolución de problemas | Consultoría en UX design |
 | Plataforma/Red | Uber |
 
-![img](bmc_transportme_7.png)
+![img](study_drive/Alura/05_emprendimiento/imgs/bmc_transportme_7.png)
 
 ## Socios Clave
 
@@ -216,7 +216,7 @@ Curso
 | Optimización y economía de Escala | Treck, Starker (fabricantes de bicicletas) |
 | Reducción de Riesgos e Incertidumbres | Bike Itaú - Muvo (Bicicletas Urbanas) |
 
-![img](bmc_transportme_8.png)
+![img](study_drive/Alura/05_emprendimiento/imgs/bmc_transportme_8.png)
 
 ## Estructura de Costos
 
@@ -233,7 +233,7 @@ Curso
 | Economía de escala | Vender a un valor menor. *Cuponatic, supermercados mayoristas* |
 | Economía de Campo | Cuando la empresa tiene el mismo campo, pero un equipo reducido responsable por atender esa necesidad de los segmentos de los clientes. *MercadoLibre* |
 
-![img](bmc_transportme_9.png)
+![img](study_drive/Alura/05_emprendimiento/imgs/bmc_transportme_9.png)
 
 ----
 
@@ -245,6 +245,6 @@ Inversionistas:
 
 Otros tipos de canvas:
 
-- Lean Model Canvas ![img](lean_canvas_model_template.webp)
-- Social Business Model Canvas ![img](social_business_model_canvas.png)
+- Lean Model Canvas ![img](study_drive/Alura/05_emprendimiento/imgs/lean_canvas_model_template.webp)
+- Social Business Model Canvas ![img](study_drive/Alura/05_emprendimiento/imgs/social_business_model_canvas.png)
 
